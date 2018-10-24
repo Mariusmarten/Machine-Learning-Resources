@@ -88,6 +88,8 @@ A recurrent neural network is a special type of neural network that has been suc
 ## 6. Advanced Machine Learning: 
 
 ### 6.2 Advanced Neuronal Knowledge:
+* [Harvard/Edx - Fundamentals of Neuroscience, Part 1: The Electrical Properties of the Neuron](https://www.edx.org/course/fundamentals-of-neuroscience-part-1-the-electrical-properties-of-the-neuron): Approx. 5 weeks to complete - Fundamentals of bioelectricity, resting potential, passive membranes, action potentials, nervous system
+* [Harvard/Edx - Fundamentals of Neuroscience, Part 2: Neurons and Networks](https://www.edx.org/course/fundamentals-of-neuroscience-part-2-neurons-and-networks): Approx. 6 weeks to complete - Synapses, neurons communication, interconnected neurons in neuronal circuits, neuromodulation in the firing of synapses
 
 ### 6.3 Advanced Mathematical Knowledge:
 * [Book: Bishop - Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf): probability theory, decision theory, information theory, probability distributions, binary/multinominal variables, gaussian distribtuion, exponential familiy, nonparametric methods, linear models for regression, bayesian linear regression, evidence approximation, linear models for classification, discrimination functions, probabilistic generative models, laplace approximation, kernel methods, sparse kernal machines
