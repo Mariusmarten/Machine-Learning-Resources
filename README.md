@@ -15,12 +15,12 @@ Important are Linear Algebra, Probability Theory and Statistics, Regression, Mul
 * [Course: Harvard - Statistics and Propability](https://projects.iq.harvard.edu/stat110/youtube): Combinatorics, basic propability, conditional probability, random variables, expected values, condtional expectation, discrete distributions, continous distributions, jointyl distributed random variables, convergence, inequality, markoc chain 
 * [Course: Coursera - Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning): Approx. 2 months to complete - Linear Algebra (Vectors, Matrices), Multivariate Calculus (Multivariate chain rules, Taylor series, linerarisation, optimisation, regression), Principal Component Analysis (Inner Product, Orthogonal Projections)
 
-## Prerequisites Programming/ Frameworks:
-Python, Mathlab, Jupyter Notebooks, Octave 
+## Prerequisites Computer Science:
+Computer Science:
+Programming: Python, Mathlab, Jupyter Notebooks, Octave 
+Frameworks: Tensorflow, Keras, Torch, PyTorch, Caffe
 
-Tensorflow, Keras, Torch, PyTorch, Caffe
-
-* [Course: MIT - Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/index.htm): Computation, Branching and iteration, String Manipulation, Guess and Check, Approximations, Bisection, Decomposition, Abstraction, Functions, Tuples, Lists, Aliasing, Mutability, Cloning, Recursion, Dictionaries, Testing, Debugging, Exceptions, Assertions, Object Oriented Programming, Python Classes, Inheritance, Programm Efficiency, Searching, Sorting
+* [Course: MIT/Edx - Introduction to Computer Science and Programming in Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python): Approx. 9 weeks to complete Computation, Branching and iteration, String Manipulation, Guess and Check, Approximations, Bisection, Decomposition, Abstraction, Functions, Tuples, Lists, Aliasing, Mutability, Cloning, Recursion, Dictionaries, Testing, Debugging, Exceptions, Assertions, Object Oriented Programming, Python Classes, Inheritance, Programm Efficiency, Searching, Sorting
 
 ### 6.1 Python Libraries for ML:
 	* [Numpy](http://www.numpy.org/)
