@@ -1,18 +1,14 @@
 # Machine Learning Resources - Becoming a Machine Learning Expert
 From Basic to Advanced
 
-* [1. Teaser/ Foundation/ Prerequisites Neuronal Networks](#1-teaser-foundation-prerequisites-neural-networks)
-* [2. Prerequisites Math](#2-prerequisites-math)
-* [3. Prerequisites Programming](#3-prerequisites-programming)
-	* [3.1 Python](#31-python)
-	* [3.2 Mathlab](#32-mathlab)
-	* [3.3 Jupyter Notebooks](#33-jupyter-notebooks)
-* [NLP](#nlp)
-* [Deep Reinforcement Learning](#deep-reinforcement-learning)
-* [ML Project Advice](#ml-project-advice)
+* [1.1 Teaser](#1-teaser)
+* [1.2 Prerequisites Math](#2-prerequisites-math)
+* [1.2 Prerequisites Programming](#3-prerequisites-programming)
+* [4. Basics Machine Learning](#3-prerequisites-programming)
+* [5. Advanced Machine Learning](#3-prerequisites-programming)
+* [5. Machine Learning Research](#3-prerequisites-programming)
 
-
-## 1. Teaser: 
+## 1.1 Teaser: 
 
 * [Video: Simplilear - Machine Learning Introduction](https://www.youtube.com/watch?v=seG9J49bBYI)
 * [Video: What is Machine Learning?](https://www.youtube.com/watch?v=WXHM_i-fgGo)supervised learning, unsupervised learning, reinforcement learning
@@ -20,36 +16,40 @@ From Basic to Advanced
 * [Book: The Master Algorithm - Petro Domingos](https://www.amazon.de/Master-Algorithm-Ultimate-Learning-Machine/dp/0141979240/ref=sr_1_1?ie=UTF8&qid=1538107975&sr=8-1&keywords=master+algorithm): Symbolists (rule System, inverse deduction), Connectionsis (backpropagation, deep learnin), Bayesians (HMM, graphical model), Evolutionaries (genetic algorithms, evolutionary programming), Analogizer (kNN, SVM)
 * [Book: Life 3.0: Being Human in the Age of Artificial Intelligence - Max Tegmark](https://www.amazon.de/Life-3-0-Being-Artificial-Intelligence/dp/0141981806/ref=sr_1_1?s=books-intl-de&ie=UTF8&qid=1540382287&sr=1-1&keywords=tegmark): implications of AI, future AGI
 
-## 2. Prerequisites Math:
+## 1.2 Prerequisites Math:
 
 * [Matrix Calculus](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html)
 * [Mathematics for Machine Learning](http://gwthomas.github.io/docs/math4ml.pdf)
-* [Coursera Course - Linear Regression with One Variable](https://www.youtube.com/watch?v=kHwlB_j7Hkc): Linear Regression
-* [Simple Linear Regression](https://www.youtube.com/watch?v=ZkjP5RJLQF4): Linear Regression
+* [Course: Coursera - Linear Regression with One Variable](https://www.youtube.com/watch?v=kHwlB_j7Hkc): Linear Regression
+* [Video: Simple Linear Regression](https://www.youtube.com/watch?v=ZkjP5RJLQF4): Linear Regression
 * [Linear Regression for Machine Learning](https://machinelearningmastery.com/linear-regression-for-machine-learning/): Linear Regression
-* [Coursera Course - Logistic Regression and Classification](https://www.youtube.com/watch?v=-la3q9d7AKQ): Logistic Regression
+* [Course: Coursera - Logistic Regression and Classification](https://www.youtube.com/watch?v=-la3q9d7AKQ): Logistic Regression
 * [Logistic Regression - An Introduction](https://www.youtube.com/watch?v=zAULhNrnuL4): Logistic Regression
 * [Stanford Logistic Regression Overview](http://ufldl.stanford.edu/tutorial/supervised/LogisticRegression/): Logistic Regression
-* [Siraj Raval Logistic Regression Tutorial](https://www.youtube.com/watch?v=D8alok2P468): Logistic Regression
 * [K Nearest Neighbors](https://www.youtube.com/watch?v=k_7gMp5wh5A): K Nearest Neighbors
 * [GeeksForGeeks Explanation](https://www.geeksforgeeks.org/k-nearest-neighbours/): K Nearest Neighbors
 * [Udacity Explanation of KNNs](https://www.youtube.com/watch?v=mpU84OJ5vdQ): K Nearest Neighbors
-* [Coursera Course - K Means](https://www.youtube.com/watch?v=hDmNF9JG3lo): K-Means
+* [Course: Coursera - K Means](https://www.youtube.com/watch?v=hDmNF9JG3lo): K-Means
 * [Stanford K Means Overview](http://stanford.edu/~cpiech/cs221/handouts/kmeans.html): K-Means
 * [Siraj Raval K Means Tutorial](https://www.youtube.com/watch?v=9991JlKnFmk): K-Means
 * [Nando de Freitas Lecture](https://www.youtube.com/watch?v=-dCtJjlEEgM): Decision Trees
 * [Decision Trees in ML](https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052): Decision Trees
 
+
+* [Course: Coursera - Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning): Approx. 2 months to complete - Linear Algebra (Vectors, Matrices), Multivariate Calculus (Multivariate chain rules, Taylor series, linerarisation, optimisation, regression), Principal Component Analysis (Inner Product, Orthogonal Projections) 
+
 **Optional**: Random Forest, SVMs, Naive Bayes, Gradient Boosted Methods, PCA
 
-## 3. Prerequisites Programming:
+## 1.3 Prerequisites Programming:
 ### 3.1 **Python**:
 
 ### 3.2 **Mathlab**:
 
 #### 3.3 **Jupyter Notebooks**:
 
-## 4. Basics Machine Learning:
+- octave
+
+## 2. Basics Machine Learning:
 
 * [3Blue1Brown Neural Network Playlist on Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi): Building blocks, Gradient descent, Backpropagation
 
@@ -57,16 +57,17 @@ From Basic to Advanced
 
 
 
-## 4. Deep Learning Frameworks:
+
+Frameworks 
 
 ### 4.1 **[Keras](https://keras.io/)**:
 
 * [Tensorflow](https://www.tensorflow.org/) - This is my go-to deep library nowdays. Honestly I think it has the steepest learning curve because it takes quite a while to get comfortable with the ideas of Tensorflow variables, placeholders, and building/executing graphs. One of the big plus sides to Tensorflow is the number of Github and Stackoverflow help you can get. You can find the answer to almost any error you get in Tensorflow because someone has likely run into it before. I think that's hugely helpful. 
 * [Torch](http://torch.ch/) - 2015 was definitely the year of Torch, but unless you really want to learn Lua, PyTorch is probably the way to go now. However, there’s a lot of good documentation and tutorials associated with Torch, so that’s a good upside. 
 * [PyTorch](http://pytorch.org/) - My other friend and I have this joke where we say that if you’re running into a bug in PyTorch, you could probably read the entirety of PyTorch’s documentation in less than 2 hours and you still wouldn’t find your answer LOL. But honestly, so many AI researchers have been raving about it, so it’s definitely worth giving it a shot even though it’s still pretty young. I think Tensorflow and PyTorch will be the 2 frameworks that will start to take over the DL framework space.
-* [Caffe](http://caffe.berkeleyvision.org/) and [Caffe2](https://caffe2.ai/) - Never played around with Caffe, but this was one of the first deep learning libraries out there. Caffe2 is notable because it's the production framework that Facebook uses to serve its models. [According to Soumith Chintala](https://www.oreilly.com/ideas/why-ai-and-machine-learning-researchers-are-beginning-to-embrace-pytorch), researchers at Facebook will try out new models and research ideas using PyTorch and will deploy using Caffe2. 
+* [Caffe](http://caffe.berkeleyvision.org/) and [Caffe2](https://caffe2.ai/) - Never played around with Caffe, but this was one of the first deep learning libraries out there. Caffe2 is notable because it's the production framework that Facebook uses to serve its models. [According to Soumith Chintala](https://www.oreilly.com/ideas/why-ai-and-machine-learning-researchers-are-beginning-to-embrace-pytorch), researchers at Facebook will try out new models and research ideas using PyTorch and will deploy using Caffe2.
 
-## 5. Basics Machine Learning (Deep learning):
+
 Supervised, Unsupervised, Reinforcement learning
 
 ### 5.1 **Artificial Neural Networks**: 
@@ -109,6 +110,7 @@ A recurrent neural network is a special type of neural network that has been suc
 	* [blog](http://blog.kaggle.com/)
 	
 	f) Pretrained Models
+
 
 ## 6. Advanced Machine Learning: 
 ### 6.1 Python Libraries for ML:
