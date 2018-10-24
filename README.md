@@ -66,7 +66,9 @@ From Basic to Advanced
 
 #### 3.3 **Jupyter Notebooks**:
 
+## 4. Basics Machine Learning:
 
+* [Udemy - Deep Learning A-Z™: Hands-On Artificial Neural Networks] (https://www.udemy.com/deeplearning/)
 
 ## 4. Deep Learning Frameworks:
 
