@@ -26,35 +26,29 @@ From Basic to Advanced
 * [Book: Life 3.0: Being Human in the Age of Artificial Intelligence - Max Tegmark](https://www.amazon.de/Life-3-0-Being-Artificial-Intelligence/dp/0141981806/ref=sr_1_1?s=books-intl-de&ie=UTF8&qid=1540382287&sr=1-1&keywords=tegmark): implications of AI, future AGI
 
 ## 2. Prerequisites Math:
-*Recommended Books:
 
 * [Matrix Calculus](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html)
 * [Mathematics for Machine Learning](http://gwthomas.github.io/docs/math4ml.pdf)
 
-### 2.1 **Linear Regression**: 
-* [Coursera Course - Linear Regression with One Variable](https://www.youtube.com/watch?v=kHwlB_j7Hkc)
-* [Simple Linear Regression](https://www.youtube.com/watch?v=ZkjP5RJLQF4)
-* [Linear Regression for Machine Learning](https://machinelearningmastery.com/linear-regression-for-machine-learning/)
+* [Coursera Course - Linear Regression with One Variable](https://www.youtube.com/watch?v=kHwlB_j7Hkc): Linear Regression
+* [Simple Linear Regression](https://www.youtube.com/watch?v=ZkjP5RJLQF4): Linear Regression
+* [Linear Regression for Machine Learning](https://machinelearningmastery.com/linear-regression-for-machine-learning/): Linear Regression
 
-### 2.2 **Logistic Regression**: 
-* [Coursera Course - Logistic Regression and Classification](https://www.youtube.com/watch?v=-la3q9d7AKQ)
-* [Logistic Regression - An Introduction](https://www.youtube.com/watch?v=zAULhNrnuL4)
-* [Stanford Logistic Regression Overview](http://ufldl.stanford.edu/tutorial/supervised/LogisticRegression/)
-* [Siraj Raval Logistic Regression Tutorial](https://www.youtube.com/watch?v=D8alok2P468)
+* [Coursera Course - Logistic Regression and Classification](https://www.youtube.com/watch?v=-la3q9d7AKQ): Logistic Regression
+* [Logistic Regression - An Introduction](https://www.youtube.com/watch?v=zAULhNrnuL4): Logistic Regression
+* [Stanford Logistic Regression Overview](http://ufldl.stanford.edu/tutorial/supervised/LogisticRegression/): Logistic Regression
+* [Siraj Raval Logistic Regression Tutorial](https://www.youtube.com/watch?v=D8alok2P468): Logistic Regression
 
-### 2.3 **K Nearest Neighbors**: 
-* [K Nearest Neighbors](https://www.youtube.com/watch?v=k_7gMp5wh5A)
-* [GeeksForGeeks Explanation](https://www.geeksforgeeks.org/k-nearest-neighbours/)
-* [Udacity Explanation of KNNs](https://www.youtube.com/watch?v=mpU84OJ5vdQ)
+* [K Nearest Neighbors](https://www.youtube.com/watch?v=k_7gMp5wh5A): K Nearest Neighbors
+* [GeeksForGeeks Explanation](https://www.geeksforgeeks.org/k-nearest-neighbours/): K Nearest Neighbors
+* [Udacity Explanation of KNNs](https://www.youtube.com/watch?v=mpU84OJ5vdQ): K Nearest Neighbors
 
-### 2.4 **K-Means**: 
-* [Coursera Course - K Means](https://www.youtube.com/watch?v=hDmNF9JG3lo)
-* [Stanford K Means Overview](http://stanford.edu/~cpiech/cs221/handouts/kmeans.html)
-* [Siraj Raval K Means Tutorial](https://www.youtube.com/watch?v=9991JlKnFmk)
+* [Coursera Course - K Means](https://www.youtube.com/watch?v=hDmNF9JG3lo): K-Means
+* [Stanford K Means Overview](http://stanford.edu/~cpiech/cs221/handouts/kmeans.html): K-Means
+* [Siraj Raval K Means Tutorial](https://www.youtube.com/watch?v=9991JlKnFmk): K-Means
 
-### 2.5 **Decision Trees**:
-* [Nando de Freitas Lecture](https://www.youtube.com/watch?v=-dCtJjlEEgM)
-* [Decision Trees in ML](https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052)
+* [Nando de Freitas Lecture](https://www.youtube.com/watch?v=-dCtJjlEEgM): Decision Trees
+* [Decision Trees in ML](https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052): Decision Trees
 
 **Optional**: Random Forest, SVMs, Naive Bayes, Gradient Boosted Methods, PCA
 
