@@ -53,7 +53,7 @@ From Basic to Advanced
 
 * [3Blue1Brown Neural Network Playlist on Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi): Building blocks, Gradient descent, Backpropagation
 
-* [Udemy - Deep Learning A-Z™: Hands-On Artificial Neural Networks] (https://www.udemy.com/deeplearning/)
+* [Udemy - Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://www.udemy.com/deeplearning/): Artifical Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks, Self Organizing Maps, Boltzmann Machines, AutoEncoders
 
 
 
