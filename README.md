@@ -11,14 +11,14 @@ From Basic to Advanced
 ## 1.1 Teaser: 
 
 * [Video: Simplilear - Machine Learning Introduction](https://www.youtube.com/watch?v=seG9J49bBYI)
-* [Video: What is Machine Learning?](https://www.youtube.com/watch?v=WXHM_i-fgGo)supervised learning, unsupervised learning, reinforcement learning
+* [Video: What is Machine Learning?](https://www.youtube.com/watch?v=WXHM_i-fgGo): supervised learning, unsupervised learning, reinforcement learning
 * [Video: Basic Machine Learning Algorithms Overview](https://www.youtube.com/watch?v=ggIk08PNcBo)
 * [Book: The Master Algorithm - Petro Domingos](https://www.amazon.de/Master-Algorithm-Ultimate-Learning-Machine/dp/0141979240/ref=sr_1_1?ie=UTF8&qid=1538107975&sr=8-1&keywords=master+algorithm): Symbolists (rule System, inverse deduction), Connectionsis (backpropagation, deep learnin), Bayesians (HMM, graphical model), Evolutionaries (genetic algorithms, evolutionary programming), Analogizer (kNN, SVM)
 * [Book: Life 3.0: Being Human in the Age of Artificial Intelligence - Max Tegmark](https://www.amazon.de/Life-3-0-Being-Artificial-Intelligence/dp/0141981806/ref=sr_1_1?s=books-intl-de&ie=UTF8&qid=1540382287&sr=1-1&keywords=tegmark): implications of AI, future AGI
 
 ## 1.2 Prerequisites Math: 
 Important are Linear Algebra, Probability Theory and Statistics, Regression, Multivariate Calculus, Algorithms and Complex Optimizations. Optional: Random Forest, SVMs, Naive Bayes, Gradient Boosted Methods, PCA
-* [Course: Khan Academy’s - Free online courses](Linear Algebra, Probability & Statistics, Multivariable Calculus and Optimization)
+* [Course: Khan Academy’s - Free online courses](https://www.khanacademy.org/math): Linear Algebra, Probability & Statistics, Multivariable Calculus and Optimization
 * [Course: MIT - Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/): linear equations, matrices multiplication, factorization, transposes, permutations, spaces R^n, Column space, nullspace, pivor variables, independence, basis, dimension, fundamental subspaces, graphs networks, incidence matrices, orthogonal vectors, gram-schmidt, properties of determinants, Eigenvalues, eigenvectors, differential equations, Markov matrices, complex matrices, singular value decomposition, linear transformations, pseudoinverse
 * [Course: Harvard/Edy - Intro to Statistics](https://www.edx.org/course/introduction-to-probability-0): Probability, Counting, and Story Proofs, Conditional Probability and Bayes' Rule, Discrete Random Variables, Continuous Random Variables, Averages, Law of Large Numbers, and Central Limit Theorem, Joint Distributions and Conditional Expectation, Markov Chains
 * [Course: Harvard - Statistics and Propability](https://projects.iq.harvard.edu/stat110/youtube): Combinatorics, basic propability, conditional probability, random variables, expected values, condtional expectation, discrete distributions, continous distributions, jointyl distributed random variables, convergence, inequality, markoc chain 
