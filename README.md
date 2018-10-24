@@ -19,12 +19,12 @@ From Basic to Advanced
 
 ## 1. Teaser/ Foundation/ Prerequisites Neuronal Networks: 
 
-* [Machine Learning Introduction](https://www.youtube.com/watch?v=seG9J49bBYI): Loved this video because it starts with great definitions and introduces you to important terminology. Feel free to stop at 6:47.
-* [What is Machine Learning?](https://www.youtube.com/watch?v=WXHM_i-fgGo): Explains the 3 different subareas of machine learning: supervised learning, unsupervised learning, reinforcement learning
-*  [A Friendly Intro to Machine Learning](https://www.youtube.com/watch?v=IpGxLWOIZy4): Great video with some cool illustrations, but honestly I think just watching until 5:54 is sufficient. 
-* [Basic Machine Learning Algorithms Overview](https://www.youtube.com/watch?v=ggIk08PNcBo): Don't worry about knowing exactly what every one of these terms mean. Just get a sense for the different algorithms and the tasks they are used for. We'll go into way more detail later on. 
-* [Machine Learning from Zero to Hero](https://medium.freecodecamp.org/machine-learning-how-to-go-from-zero-to-hero-40e26f8aa6da): Get motivated to learn Machine Learning.  Sometimes a simple sitting back and watching the right videos can ignite and fan the fire to get active in ML.  If you know software, this is a great starting post. Don't worry about knowing every single detail in each of the videos, but rather think about the high level goal of ML. 
-* [The Master Algorithm - Petro Domingos](https://www.amazon.de/Master-Algorithm-Ultimate-Learning-Machine/dp/0141979240/ref=sr_1_1?ie=UTF8&qid=1538107975&sr=8-1&keywords=master+algorithm)
+* [Video: Simplilear - Machine Learning Introduction](https://www.youtube.com/watch?v=seG9J49bBYI)
+* [Video: What is Machine Learning?](https://www.youtube.com/watch?v=WXHM_i-fgGo): Subareas of machinesupervised learning, unsupervised learning, reinforcement learning
+* [Video: Basic Machine Learning Algorithms Overview](https://www.youtube.com/watch?v=ggIk08PNcBo)
+
+* [Book: The Master Algorithm - Petro Domingos](https://www.amazon.de/Master-Algorithm-Ultimate-Learning-Machine/dp/0141979240/ref=sr_1_1?ie=UTF8&qid=1538107975&sr=8-1&keywords=master+algorithm)
+* [Book: Life 3.0: Being Human in the Age of Artificial Intelligence - Petro Domingos](https://www.amazon.de/Life-3-0-Being-Artificial-Intelligence/dp/0141981806/ref=sr_1_1?s=books-intl-de&ie=UTF8&qid=1540382287&sr=1-1&keywords=tegmark)
 
 ## 2. Prerequisites Math:
 *Recommended Books:
@@ -68,7 +68,11 @@ From Basic to Advanced
 
 ## 4. Basics Machine Learning:
 
+* [3Blue1Brown Neural Network Playlist on Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi): Building blocks, Gradient descent, Backpropagation
+
 * [Udemy - Deep Learning A-Z™: Hands-On Artificial Neural Networks] (https://www.udemy.com/deeplearning/)
+
+
 
 ## 4. Deep Learning Frameworks:
 
@@ -84,7 +88,7 @@ Supervised, Unsupervised, Reinforcement learning
 
 ### 5.1 **Artificial Neural Networks**: 
 If someone wants to get started with deep learning, I think that the best approach is to first get familiar with machine learning (which you all will have done by this point) and then start with neural networks. Following the same high level understanding -> model specifics -> code -> practical example approach would be great here as well. 
-* [3Blue1Brown Neural Network Playlist](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi): Can't overstate how well made these videos are. They go in depth on backpropagation and gradient descent, two critical concepts for understanding neural networks. 
+
 * [How Deep Neural Networks Work](https://www.youtube.com/watch?v=ILsA4nyG7I0): Another great tutorial by Brandon Rohrer.
 * [A Friendly Introduction to Deep Learning and Neural Networks](https://www.youtube.com/watch?v=BR9h47Jtqyw): Another visually appearing presentation of neural nets.
 * [Neural Network Playground](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.09661&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false): Great web app, created by Google, that allows you to tinker with a neural network in the browser. Awesome for gaining some practical understanding. 
