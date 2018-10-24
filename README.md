@@ -17,13 +17,13 @@ From Basic to Advanced
 * [Book: Life 3.0: Being Human in the Age of Artificial Intelligence - Max Tegmark](https://www.amazon.de/Life-3-0-Being-Artificial-Intelligence/dp/0141981806/ref=sr_1_1?s=books-intl-de&ie=UTF8&qid=1540382287&sr=1-1&keywords=tegmark): implications of AI, future AGI
 
 ## 1.2 Prerequisites Math: 
-Important are Linear Algebra, Probability Theory and Statistics, Regression, Multivariate Calculus, Algorithms and Complex Optimizations
+Important are Linear Algebra, Probability Theory and Statistics, Regression, Multivariate Calculus, Algorithms and Complex Optimizations. Optional: Random Forest, SVMs, Naive Bayes, Gradient Boosted Methods, PCA
+* [Course: Khan Academy’s -]
 * [Course: MIT - Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/): linear equations, matrices multiplication, factorization, transposes, permutations, spaces R^n, Column space, nullspace, pivor variables, independence, basis, dimension, fundamental subspaces, graphs networks, incidence matrices, orthogonal vectors, gram-schmidt, properties of determinants, Eigenvalues, eigenvectors, differential equations, Markov matrices, complex matrices, singular value decomposition, linear transformations, pseudoinverse
+* [Course: Harvard - Statistics and Propability](https://projects.iq.harvard.edu/stat110/youtube): 
+* [Course: Coursera - Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning): Approx. 2 months to complete - Linear Algebra (Vectors, Matrices), Multivariate Calculus (Multivariate chain rules, Taylor series, linerarisation, optimisation, regression), Principal Component Analysis (Inner Product, Orthogonal Projections)
+* [Course: Coursera - Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning): Approx. 2 months to complete - Linear Algebra (Vectors, Matrices), Multivariate Calculus (Multivariate chain rules, Taylor series, linerarisation, optimisation, regression), Principal Component Analysis (Inner Product, Orthogonal Projections)
 
-
-* [Course: Coursera - Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning): Approx. 2 months to complete - Linear Algebra (Vectors, Matrices), Multivariate Calculus (Multivariate chain rules, Taylor series, linerarisation, optimisation, regression), Principal Component Analysis (Inner Product, Orthogonal Projections) 
-
-**Optional**: Random Forest, SVMs, Naive Bayes, Gradient Boosted Methods, PCA
 
 ## 1.3 Prerequisites Programming/ Frameworks:
 Python, Mathlab, Jupyter Notebooks, Octave 
@@ -97,9 +97,10 @@ A recurrent neural network is a special type of neural network that has been suc
 
 ## 6. Advanced Machine Learning: 
 
-### 6.2 Advanced Neuronal Background Knowledge:
+### 6.2 Advanced Neuronal Knowledge:
 
-### 6.3 Advanced Mathematical Background Knowledge:
+### 6.3 Advanced Mathematical Knowledge:
+* [Book: Bishop - Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf): probability theory, decision theory, information theory, probability distributions, binary/multinominal variables, gaussian distribtuion, exponential familiy, nonparametric methods, linear models for regression, bayesian linear regression, evidence approximation, linear models for classification, discrimination functions, probabilistic generative models, laplace approximation, kernel methods, sparse kernal machines
 
 ## 7. Machine Learning Research (Go deeper):
 
