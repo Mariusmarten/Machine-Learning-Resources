@@ -1,22 +1,13 @@
 # Machine Learning Resources - Becoming a Machine Learning Expert
 From Basic to Advanced
 
-* [1.1 Teaser](#1-teaser)
-* [1.2 Prerequisites Math](#2-prerequisites-math)
-* [1.2 Prerequisites Programming](#3-prerequisites-programming)
-* [4. Basics Machine Learning](#3-prerequisites-programming)
-* [5. Advanced Machine Learning](#3-prerequisites-programming)
-* [5. Machine Learning Research](#3-prerequisites-programming)
+* [Prerequisites Math](#prerequisites-math)
+* [Prerequisites Programming](#prerequisites-programming)
+* [1. Basics Machine Learning](#3-prerequisites-programming)
+* [2. Advanced Machine Learning](#3-prerequisites-programming)
+* [3. Machine Learning Research](#3-prerequisites-programming)
 
-## 1.1 Teaser: 
-
-* [Video: Simplilear - Machine Learning Introduction](https://www.youtube.com/watch?v=seG9J49bBYI)
-* [Video: What is Machine Learning?](https://www.youtube.com/watch?v=WXHM_i-fgGo): supervised learning, unsupervised learning, reinforcement learning
-* [Video: Basic Machine Learning Algorithms Overview](https://www.youtube.com/watch?v=ggIk08PNcBo)
-* [Book: The Master Algorithm - Petro Domingos](https://www.amazon.de/Master-Algorithm-Ultimate-Learning-Machine/dp/0141979240/ref=sr_1_1?ie=UTF8&qid=1538107975&sr=8-1&keywords=master+algorithm): Symbolists (rule System, inverse deduction), Connectionsis (backpropagation, deep learnin), Bayesians (HMM, graphical model), Evolutionaries (genetic algorithms, evolutionary programming), Analogizer (kNN, SVM)
-* [Book: Life 3.0: Being Human in the Age of Artificial Intelligence - Max Tegmark](https://www.amazon.de/Life-3-0-Being-Artificial-Intelligence/dp/0141981806/ref=sr_1_1?s=books-intl-de&ie=UTF8&qid=1540382287&sr=1-1&keywords=tegmark): implications of AI, future AGI
-
-## 1.2 Prerequisites Math: 
+## Prerequisites Math: 
 Important are Linear Algebra, Probability Theory and Statistics, Regression, Multivariate Calculus, Algorithms and Complex Optimizations. Optional: Random Forest, SVMs, Naive Bayes, Gradient Boosted Methods, PCA
 * [Course: Khan Academy’s - Free online courses](https://www.khanacademy.org/math): Linear Algebra, Probability & Statistics, Multivariable Calculus and Optimization
 * [Course: MIT - Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/): linear equations, matrices multiplication, factorization, transposes, permutations, spaces R^n, Column space, nullspace, pivor variables, independence, basis, dimension, fundamental subspaces, graphs networks, incidence matrices, orthogonal vectors, gram-schmidt, properties of determinants, Eigenvalues, eigenvectors, differential equations, Markov matrices, complex matrices, singular value decomposition, linear transformations, pseudoinverse
@@ -24,7 +15,7 @@ Important are Linear Algebra, Probability Theory and Statistics, Regression, Mul
 * [Course: Harvard - Statistics and Propability](https://projects.iq.harvard.edu/stat110/youtube): Combinatorics, basic propability, conditional probability, random variables, expected values, condtional expectation, discrete distributions, continous distributions, jointyl distributed random variables, convergence, inequality, markoc chain 
 * [Course: Coursera - Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning): Approx. 2 months to complete - Linear Algebra (Vectors, Matrices), Multivariate Calculus (Multivariate chain rules, Taylor series, linerarisation, optimisation, regression), Principal Component Analysis (Inner Product, Orthogonal Projections)
 
-## 1.3 Prerequisites Programming/ Frameworks:
+## Prerequisites Programming/ Frameworks:
 Python, Mathlab, Jupyter Notebooks, Octave 
 
 Tensorflow, Keras, Torch, PyTorch, Caffe
@@ -102,6 +93,10 @@ A recurrent neural network is a special type of neural network that has been suc
 * [Book: Bishop - Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf): probability theory, decision theory, information theory, probability distributions, binary/multinominal variables, gaussian distribtuion, exponential familiy, nonparametric methods, linear models for regression, bayesian linear regression, evidence approximation, linear models for classification, discrimination functions, probabilistic generative models, laplace approximation, kernel methods, sparse kernal machines
 
 ## 7. Machine Learning Research (Go deeper):
+
+
+* [Book: The Master Algorithm - Petro Domingos](https://www.amazon.de/Master-Algorithm-Ultimate-Learning-Machine/dp/0141979240/ref=sr_1_1?ie=UTF8&qid=1538107975&sr=8-1&keywords=master+algorithm): Symbolists (rule System, inverse deduction), Connectionsis (backpropagation, deep learnin), Bayesians (HMM, graphical model), Evolutionaries (genetic algorithms, evolutionary programming), Analogizer (kNN, SVM)
+* [Book: Life 3.0: Being Human in the Age of Artificial Intelligence - Max Tegmark](https://www.amazon.de/Life-3-0-Being-Artificial-Intelligence/dp/0141981806/ref=sr_1_1?s=books-intl-de&ie=UTF8&qid=1540382287&sr=1-1&keywords=tegmark): implications of AI, future AGI
 
 ## Best Courses
 * [Stanford CS 224D](https://www.youtube.com/watch?v=sU_Yu_USrNc&list=PLTuSSFCVeNVCXL0Tak5rJ83O-Bg_ajO5B) - Deep Learning for NLP
