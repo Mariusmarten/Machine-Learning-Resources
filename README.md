@@ -87,6 +87,8 @@ A recurrent neural network is a special type of neural network that has been suc
 
 ## 6. Advanced Machine Learning: 
 
+* [Course: Coursera - Hintons Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks): Approx. 5 weeks to complete - Perceptron, backpropagation, vectors for words, object recogntion, neural nets, optimization, recurrent neural networks, combine multiple neural networks, Hopfield nets, Boltzmann machines, Restricted Boltzman machines (RBMs), Deep Belief Nets, generative pre-training, modeling hierarchical structure
+
 ### 6.2 Advanced Neuronal Knowledge:
 * [Harvard/Edx - Fundamentals of Neuroscience, Part 1: The Electrical Properties of the Neuron](https://www.edx.org/course/fundamentals-of-neuroscience-part-1-the-electrical-properties-of-the-neuron): Approx. 5 weeks to complete - Fundamentals of bioelectricity, resting potential, passive membranes, action potentials, nervous system
 * [Harvard/Edx - Fundamentals of Neuroscience, Part 2: Neurons and Networks](https://www.edx.org/course/fundamentals-of-neuroscience-part-2-neurons-and-networks): Approx. 6 weeks to complete - Synapses, neurons communication, interconnected neurons in neuronal circuits, neuromodulation in the firing of synapses
