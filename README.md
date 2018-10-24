@@ -1,7 +1,7 @@
 # Machine Learning Resources - Becoming a Machine Learning Expert
 From Basic to Advanced
 
-* [Prerequisites Math](#prerequisites-math)
+* [Prerequisites Math](#prerequisites-math): sfe
 * [Prerequisites Programming](#prerequisites-programming)
 * [1. Basics Machine Learning](#3-prerequisites-programming)
 * [2. Advanced Machine Learning](#3-prerequisites-programming)
