@@ -17,14 +17,13 @@ From Basic to Advanced
 * [ML Project Advice](#ml-project-advice)
 
 
-## 1. Teaser/ Foundation/ Prerequisites Neuronal Networks: 
+## 1. Teaser: 
 
 * [Video: Simplilear - Machine Learning Introduction](https://www.youtube.com/watch?v=seG9J49bBYI)
-* [Video: What is Machine Learning?](https://www.youtube.com/watch?v=WXHM_i-fgGo): Subareas of machinesupervised learning, unsupervised learning, reinforcement learning
+* [Video: What is Machine Learning?](https://www.youtube.com/watch?v=WXHM_i-fgGo)supervised learning, unsupervised learning, reinforcement learning
 * [Video: Basic Machine Learning Algorithms Overview](https://www.youtube.com/watch?v=ggIk08PNcBo)
-
-* [Book: The Master Algorithm - Petro Domingos](https://www.amazon.de/Master-Algorithm-Ultimate-Learning-Machine/dp/0141979240/ref=sr_1_1?ie=UTF8&qid=1538107975&sr=8-1&keywords=master+algorithm)
-* [Book: Life 3.0: Being Human in the Age of Artificial Intelligence - Petro Domingos](https://www.amazon.de/Life-3-0-Being-Artificial-Intelligence/dp/0141981806/ref=sr_1_1?s=books-intl-de&ie=UTF8&qid=1540382287&sr=1-1&keywords=tegmark)
+* [Book: The Master Algorithm - Petro Domingos](https://www.amazon.de/Master-Algorithm-Ultimate-Learning-Machine/dp/0141979240/ref=sr_1_1?ie=UTF8&qid=1538107975&sr=8-1&keywords=master+algorithm): Symbolists (rule System, inverse deduction), Connectionsis (backpropagation, deep learnin), Bayesians (HMM, graphical model), Evolutionaries (genetic algorithms, evolutionary programming), Analogizer (kNN, SVM)
+* [Book: Life 3.0: Being Human in the Age of Artificial Intelligence - Max Tegmark](https://www.amazon.de/Life-3-0-Being-Artificial-Intelligence/dp/0141981806/ref=sr_1_1?s=books-intl-de&ie=UTF8&qid=1540382287&sr=1-1&keywords=tegmark): implications of AI, future AGI
 
 ## 2. Prerequisites Math:
 *Recommended Books:
