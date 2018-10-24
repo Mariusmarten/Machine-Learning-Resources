@@ -24,24 +24,19 @@ From Basic to Advanced
 
 * [Matrix Calculus](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html)
 * [Mathematics for Machine Learning](http://gwthomas.github.io/docs/math4ml.pdf)
-
 * [Coursera Course - Linear Regression with One Variable](https://www.youtube.com/watch?v=kHwlB_j7Hkc): Linear Regression
 * [Simple Linear Regression](https://www.youtube.com/watch?v=ZkjP5RJLQF4): Linear Regression
 * [Linear Regression for Machine Learning](https://machinelearningmastery.com/linear-regression-for-machine-learning/): Linear Regression
-
 * [Coursera Course - Logistic Regression and Classification](https://www.youtube.com/watch?v=-la3q9d7AKQ): Logistic Regression
 * [Logistic Regression - An Introduction](https://www.youtube.com/watch?v=zAULhNrnuL4): Logistic Regression
 * [Stanford Logistic Regression Overview](http://ufldl.stanford.edu/tutorial/supervised/LogisticRegression/): Logistic Regression
 * [Siraj Raval Logistic Regression Tutorial](https://www.youtube.com/watch?v=D8alok2P468): Logistic Regression
-
 * [K Nearest Neighbors](https://www.youtube.com/watch?v=k_7gMp5wh5A): K Nearest Neighbors
 * [GeeksForGeeks Explanation](https://www.geeksforgeeks.org/k-nearest-neighbours/): K Nearest Neighbors
 * [Udacity Explanation of KNNs](https://www.youtube.com/watch?v=mpU84OJ5vdQ): K Nearest Neighbors
-
 * [Coursera Course - K Means](https://www.youtube.com/watch?v=hDmNF9JG3lo): K-Means
 * [Stanford K Means Overview](http://stanford.edu/~cpiech/cs221/handouts/kmeans.html): K-Means
 * [Siraj Raval K Means Tutorial](https://www.youtube.com/watch?v=9991JlKnFmk): K-Means
-
 * [Nando de Freitas Lecture](https://www.youtube.com/watch?v=-dCtJjlEEgM): Decision Trees
 * [Decision Trees in ML](https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052): Decision Trees
 
