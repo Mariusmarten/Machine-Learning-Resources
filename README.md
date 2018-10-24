@@ -3,11 +3,6 @@ From Basic to Advanced
 
 * [1. Teaser/ Foundation/ Prerequisites Neuronal Networks](#1-teaser-foundation-prerequisites-neural-networks)
 * [2. Prerequisites Math](#2-prerequisites-math)
-	* [2.1 Linear Regression](#21-linear-regression)
-	* [2.2 Logistic Regression](#22-logistic-regression)
-	* [2.3 K Nearest Neighbors](#23-k-nearest-neighbors)
-	* [2.4 K-Means](#24-k-means)
-	* [2.5 Decision Trees](#25-decision-trees)
 * [3. Prerequisites Programming](#3-prerequisites-programming)
 	* [3.1 Python](#31-python)
 	* [3.2 Mathlab](#32-mathlab)
