@@ -41,6 +41,8 @@ Frameworks: Tensorflow, Keras, Torch, PyTorch, Caffe
 
 * [Coursera - Andrew Ng Machine Learning Course](https://www.coursera.org/learn/machine-learning)
 
+https://hackernoon.com/my-self-created-ai-masters-degree-ddc7aae92d0e
+
 Supervised, Unsupervised, Reinforcement learning
 
 ### 5.1 **Artificial Neural Networks**: 
