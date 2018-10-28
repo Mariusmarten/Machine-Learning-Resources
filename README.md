@@ -29,6 +29,9 @@ Frameworks: Tensorflow, Keras, Torch, PyTorch, Caffe
 	* [Pandas](http://pandas.pydata.org/)
 
 * [Tensorflow](https://www.tensorflow.org/) - This is my go-to deep library nowdays. Honestly I think it has the steepest learning curve because it takes quite a while to get comfortable with the ideas of Tensorflow variables, placeholders, and building/executing graphs. One of the big plus sides to Tensorflow is the number of Github and Stackoverflow help you can get. You can find the answer to almost any error you get in Tensorflow because someone has likely run into it before. I think that's hugely helpful. 
+BOOK
+* [Keras](
+BOOK
 * [Torch](http://torch.ch/) - 2015 was definitely the year of Torch, but unless you really want to learn Lua, PyTorch is probably the way to go now. However, there’s a lot of good documentation and tutorials associated with Torch, so that’s a good upside. 
 * [PyTorch](http://pytorch.org/) - My other friend and I have this joke where we say that if you’re running into a bug in PyTorch, you could probably read the entirety of PyTorch’s documentation in less than 2 hours and you still wouldn’t find your answer LOL. But honestly, so many AI researchers have been raving about it, so it’s definitely worth giving it a shot even though it’s still pretty young. I think Tensorflow and PyTorch will be the 2 frameworks that will start to take over the DL framework space.
 * [Caffe](http://caffe.berkeleyvision.org/) and [Caffe2](https://caffe2.ai/) - Never played around with Caffe, but this was one of the first deep learning libraries out there. Caffe2 is notable because it's the production framework that Facebook uses to serve its models. [According to Soumith Chintala](https://www.oreilly.com/ideas/why-ai-and-machine-learning-researchers-are-beginning-to-embrace-pytorch), researchers at Facebook will try out new models and research ideas using PyTorch and will deploy using Caffe2.
@@ -39,7 +42,9 @@ Frameworks: Tensorflow, Keras, Torch, PyTorch, Caffe
 
 * [Udemy - Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://www.udemy.com/deeplearning/): Artifical Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks, Self Organizing Maps, Boltzmann Machines, AutoEncoders
 
-* [Coursera - Andrew Ng Machine Learning Course](https://www.coursera.org/learn/machine-learning)
+* [Coursera - Andrew Ng Machine Learning Course](https://www.coursera.org/learn/machine-learning):
+
+* [Udacity Deep Learning](https://www.udacity.com/course/deep-learning--ud730): Approx. 3 months to complete - basic classification, gradient descent, relus, chain rule, backpropagation, L2 regularization, dropout, hyperparameter tuning, CNN, Word2Vec, tSNE, LSTM
 
 https://hackernoon.com/my-self-created-ai-masters-degree-ddc7aae92d0e
 
@@ -81,8 +86,7 @@ A recurrent neural network is a special type of neural network that has been suc
 	* [Pong From Pixels](http://karpathy.github.io/2016/05/31/rl/)
 	* [Lessons Learned Reproducing a Deep RL Paper](http://amid.fish/reproducing-deep-rl)
 	
-	e) Kaggle
-	* [blog](http://blog.kaggle.com/)
+
 	
 	f) Pretrained Models
 
@@ -90,6 +94,10 @@ A recurrent neural network is a special type of neural network that has been suc
 ## 6. Advanced Machine Learning: 
 
 * [Course: Coursera - Hintons Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks): Approx. 5 weeks to complete - Perceptron, backpropagation, vectors for words, object recogntion, neural nets, optimization, recurrent neural networks, combine multiple neural networks, Hopfield nets, Boltzmann machines, Restricted Boltzman machines (RBMs), Deep Belief Nets, generative pre-training, modeling hierarchical structure
+
+
+	e) Kaggle
+	* [blog](http://blog.kaggle.com/)
 
 ### 6.2 Advanced Neuronal Knowledge:
 * [Harvard/Edx - Fundamentals of Neuroscience, Part 1: The Electrical Properties of the Neuron](https://www.edx.org/course/fundamentals-of-neuroscience-part-1-the-electrical-properties-of-the-neuron): Approx. 5 weeks to complete - Fundamentals of bioelectricity, resting potential, passive membranes, action potentials, nervous system
@@ -107,12 +115,10 @@ A recurrent neural network is a special type of neural network that has been suc
 ## Best Courses
 * [Stanford CS 224D](https://www.youtube.com/watch?v=sU_Yu_USrNc&list=PLTuSSFCVeNVCXL0Tak5rJ83O-Bg_ajO5B) - Deep Learning for NLP
 * [Hugo Larochelle's Neural Networks Course](https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
-
-
 * [Stanford CS 229](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599) - Pretty much the same as the Coursera course
 * [UC Berkeley Kaggle Decal](https://kaggledecal.github.io/)
 * [Short MIT Intro to DL Course](https://www.youtube.com/playlist?list=PLkkuNyzb8LmxFutYuPA7B4oiMn6cjD6Rs)
-* [Udacity Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
+
 * [Deep Learning School Montreal 2016](http://videolectures.net/deeplearning2016_montreal/) and [2017](http://videolectures.net/deeplearning2017_montreal/)
 * [Intro to Neural Nets and ML (Univ of Toronto)](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/)
 * [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
