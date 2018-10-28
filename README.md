@@ -40,11 +40,11 @@ BOOK
 
 * [Video - 3Blue1Brown Neural Network Playlist on Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi): Building blocks, Gradient descent, Backpropagation
 
-* [Udemy - Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://www.udemy.com/deeplearning/): Artifical Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks, Self Organizing Maps, Boltzmann Machines, AutoEncoders
+* [Course: Udemy - Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://www.udemy.com/deeplearning/): Artifical Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks, Self Organizing Maps, Boltzmann Machines, AutoEncoders
 
-* [Coursera - Andrew Ng Machine Learning Course](https://www.coursera.org/learn/machine-learning):
+* [Course: Coursera - Andrew Ng Machine Learning Course](https://www.coursera.org/learn/machine-learning):
 
-* [Udacity Deep Learning](https://www.udacity.com/course/deep-learning--ud730): Approx. 3 months to complete - basic classification, gradient descent, relus, chain rule, backpropagation, L2 regularization, dropout, hyperparameter tuning, CNN, Word2Vec, tSNE, LSTM
+* [Course: Udacity - Deep Learning](https://www.udacity.com/course/deep-learning--ud730): Approx. 3 months to complete - basic classification, gradient descent, relus, chain rule, backpropagation, L2 regularization, dropout, hyperparameter tuning, CNN, Word2Vec, tSNE, LSTM
 
 https://hackernoon.com/my-self-created-ai-masters-degree-ddc7aae92d0e
 
