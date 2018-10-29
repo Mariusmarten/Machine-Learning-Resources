@@ -27,15 +27,20 @@ Frameworks: Tensorflow, Keras, Torch, PyTorch, Caffe
 	* [Scikit-Learn](http://scikit-learn.org/stable/)
 	* [Matplotlib](https://matplotlib.org/)
 	* [Pandas](http://pandas.pydata.org/)
+	Matlab, skikit, Octave, pytorch, XGBoost library, 
 
-* [Framework: Google - Tensorflow](https://www.tensorflow.org/) - This is my go-to deep library nowdays. Honestly I think it has the steepest learning curve because it takes quite a while to get comfortable with the ideas of Tensorflow variables, placeholders, and building/executing graphs. One of the big plus sides to Tensorflow is the number of Github and Stackoverflow help you can get. You can find the answer to almost any error you get in Tensorflow because someone has likely run into it before. I think that's hugely helpful. 
+* [Framework: Google (Open Source) - Tensorflow](https://www.tensorflow.org/) - This is my go-to deep library nowdays. Honestly I think it has the steepest learning curve because it takes quite a while to get comfortable with the ideas of Tensorflow variables, placeholders, and building/executing graphs. One of the big plus sides to Tensorflow is the number of Github and Stackoverflow help you can get. You can find the answer to almost any error you get in Tensorflow because someone has likely run into it before. I think that's hugely helpful. 
 [Github post]()
 BOOK
-* [Framework: Francois Chollet - Keras](https://keras.io/)
+* [Framework: Francois Chollet (Open Source) - Keras](https://keras.io/): high-level API
 BOOK
-* [Framework: Torch](http://torch.ch/) - 2015 was definitely the year of Torch, but unless you really want to learn Lua, PyTorch is probably the way to go now. However, there’s a lot of good documentation and tutorials associated with Torch, so that’s a good upside. 
+* [Framework: Torch](http://torch.ch/) - 
 * [Framework: PyTorch](http://pytorch.org/) - My other friend and I have this joke where we say that if you’re running into a bug in PyTorch, you could probably read the entirety of PyTorch’s documentation in less than 2 hours and you still wouldn’t find your answer LOL. But honestly, so many AI researchers have been raving about it, so it’s definitely worth giving it a shot even though it’s still pretty young. I think Tensorflow and PyTorch will be the 2 frameworks that will start to take over the DL framework space.
 * [Framework: Caffe](http://caffe.berkeleyvision.org/) and [Caffe2](https://caffe2.ai/) - Never played around with Caffe, but this was one of the first deep learning libraries out there. Caffe2 is notable because it's the production framework that Facebook uses to serve its models. [According to Soumith Chintala](https://www.oreilly.com/ideas/why-ai-and-machine-learning-researchers-are-beginning-to-embrace-pytorch), researchers at Facebook will try out new models and research ideas using PyTorch and will deploy using Caffe2.
+
+Framework Microsoft - CNTK
+
+Automated ML Frameworks:
 
 ## 2. Basics Machine Learning:
 
@@ -233,6 +238,7 @@ A recurrent neural network is a special type of neural network that has been suc
 Potcasts
 Blogs
 
+Credits: Big thanks to all contributors to awesome lists (posted in other resources), which enabled me to find some of the courses contained in the list.
 
 
 
