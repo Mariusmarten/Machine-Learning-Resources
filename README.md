@@ -238,6 +238,13 @@ A recurrent neural network is a special type of neural network that has been suc
 Potcasts
 Blogs
 
+Company’s: Baidu, Alibana, tencent, wechat, QQ, google brain, Deepmind , waymo, Uber, Tesla, Amazon, Microsoft, Facebook, openai, apple
+Academia: mit, standford, Cambridge, Toronto, China?, Paris?, 
+Persons:(https://towardsdatascience.com/meet-the-heroes-of-deep-learning-648c9083ef10)
+lecun, Alex, Hinton, Bengio, Schmidhuber, Karpathy, Goodfellow, Salakhutdinov, Yuanqing Lin, Pieter Abbel
+Others: towardsdatascience 
+
+
 Credits: Big thanks to all contributors to awesome lists (posted in other resources), which enabled me to find some of the courses contained in the list.
 
 
