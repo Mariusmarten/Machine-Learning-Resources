@@ -24,6 +24,8 @@ Programming: Computer Science basics, Python
 
 Programms: Mathlab, Jupyter Notebooks, Octave
 
+Mathlab introduction course
+
 Python Libraries: Numpy, 
 
 * [Numpy](http://www.numpy.org/)
