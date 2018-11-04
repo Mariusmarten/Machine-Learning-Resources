@@ -19,7 +19,8 @@ Important are Linear Algebra, Probability Theory and Statistics, Regression, Mul
 Programming: Computer Science basics, Python
 
 * [Course: MIT/Edx - Introduction to Computer Science and Programming in Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python): Approx. 9 weeks to complete Computation, Branching and iteration, String Manipulation, Guess and Check, Approximations, Bisection, Decomposition, Abstraction, Functions, Tuples, Lists, Aliasing, Mutability, Cloning, Recursion, Dictionaries, Testing, Debugging, Exceptions, Assertions, Object Oriented Programming, Python Classes, Inheritance, Programm Efficiency, Searching, Sorting
-* [Course: Coursera/RICE - An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1?specialization=computer-fundamentals): Approx. 29 hours to complete; Statements, expressions, variables, Functions, logic, conditionals, Event-driven programming, local/global variables, canvas, drawing, timers, lists, keyboard input, the basics of modeling motion, 
+* [Course: Coursera/RICE - An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1?specialization=computer-fundamentals): Approx. 29 hours to complete; Statements, expressions, variables, Functions, logic, conditionals, Event-driven programming, local/global variables, canvas, drawing, timers, lists, keyboard input, the basics of modeling motion
+* [Course: Coursera - Coursera/RICE - An Introduction to Interactive Programming in Python (Part 2)](https://www.coursera.org/learn/interactive-python-2?specialization=computer-fundamentals): Approx. 25 hours to complete; mouse input, list methods, dictionaries, classes and object-oriented programming, basic game physics, sprites, sets and animation
 
 Programms: Mathlab, Jupyter Notebooks, Octave
 
