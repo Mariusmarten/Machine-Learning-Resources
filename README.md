@@ -16,22 +16,22 @@ Important are Linear Algebra, Probability Theory and Statistics, Regression, Mul
 * [Course: Coursera - Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning): Approx. 2 months to complete - Linear Algebra (Vectors, Matrices), Multivariate Calculus (Multivariate chain rules, Taylor series, linerarisation, optimisation, regression), Principal Component Analysis (Inner Product, Orthogonal Projections)
 
 ## Prerequisites Computer Science:
-Computer Science:
-Programming: Python, Mathlab, Jupyter Notebooks, Octave 
-Frameworks: Tensorflow, Keras, Torch, PyTorch, Caffe
+Programming: Computer Science basics, Python
 
 * [Course: MIT/Edx - Introduction to Computer Science and Programming in Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python): Approx. 9 weeks to complete Computation, Branching and iteration, String Manipulation, Guess and Check, Approximations, Bisection, Decomposition, Abstraction, Functions, Tuples, Lists, Aliasing, Mutability, Cloning, Recursion, Dictionaries, Testing, Debugging, Exceptions, Assertions, Object Oriented Programming, Python Classes, Inheritance, Programm Efficiency, Searching, Sorting
+* [Course: Coursera/RICE - An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1?specialization=computer-fundamentals): Approx. 29 hours to complete; Statements, expressions, variables, Functions, logic, conditionals
 
-### 6.1 Python Libraries for ML:
-	* [Numpy](http://www.numpy.org/)
-	* [Scikit-Learn](http://scikit-learn.org/stable/)
-	* [Matplotlib](https://matplotlib.org/)
-	* [Pandas](http://pandas.pydata.org/)
-	
-Matlab, 
-skikit, 
-Octave, 
-XGBoost library, 
+Programms: Mathlab, Jupyter Notebooks, Octave
+
+Python Libraries: Numpy, 
+
+* [Numpy](http://www.numpy.org/)
+* [Scikit-Learn](http://scikit-learn.org/stable/)
+* [Matplotlib](https://matplotlib.org/)
+* [Pandas](http://pandas.pydata.org/)
+ XGBoost library, 
+
+Frameworks: Tensorflow, Keras, Torch, PyTorch, Caffe
 
 * [Framework: Google (Open Source) - Tensorflow](https://www.tensorflow.org/) - This is my go-to deep library nowdays. Honestly I think it has the steepest learning curve because it takes quite a while to get comfortable with the ideas of Tensorflow variables, placeholders, and building/executing graphs. One of the big plus sides to Tensorflow is the number of Github and Stackoverflow help you can get. You can find the answer to almost any error you get in Tensorflow because someone has likely run into it before. I think that's hugely helpful. 
 [Github post]()
