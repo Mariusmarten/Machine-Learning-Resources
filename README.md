@@ -64,13 +64,20 @@ Automated ML Frameworks:
 * [Course: Udacity - Deep Learning](https://www.udacity.com/course/deep-learning--ud730): Approx. 3 months to complete - basic classification, gradient descent, relus, chain rule, backpropagation, L2 regularization, dropout, hyperparameter tuning, CNN, Word2Vec, tSNE, LSTM
 
 https://hackernoon.com/my-self-created-ai-masters-degree-ddc7aae92d0e
+
 -Machine Learning; Columbia University via edX
+
 - CMU: 2017 Fall: 10-707 Topics in Deep Learning
+
 - Google cloud coursera (3x)
 [Spezialisierung, Engineering, Advanced]
-- advanced ML
+
+- advanced ML https://www.coursera.org/specializations/aml
+
 - Kurs fast.ai
+
 - Tensorflow Tutorial
+
 - Udacity nano degree
 
 Supervised, Unsupervised, Reinforcement learning
