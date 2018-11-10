@@ -167,6 +167,8 @@ Multi-layer graphical models/ deep generative models:
 -genetic algorithms, evolution strategies, reinforcement learning
 -depthwise separable convolutions
 - neural turing machine (deepmind)
+encode: One-hot encode, k-hot encode (mathematical idea)
+loss: crossentropy, mean square error, absolut error (mathematical idea)
 
 ## Best Courses
 * [Stanford CS 224D](https://www.youtube.com/watch?v=sU_Yu_USrNc&list=PLTuSSFCVeNVCXL0Tak5rJ83O-Bg_ajO5B) - Deep Learning for NLP
