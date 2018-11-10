@@ -166,6 +166,7 @@ Multi-layer graphical models/ deep generative models:
 - gaussian process models for hyper parameters (hyperparameter search)
 -genetic algorithms, evolution strategies, reinforcement learning
 -depthwise separable convolutions
+- neural turing machine (deepmind)
 
 ## Best Courses
 * [Stanford CS 224D](https://www.youtube.com/watch?v=sU_Yu_USrNc&list=PLTuSSFCVeNVCXL0Tak5rJ83O-Bg_ajO5B) - Deep Learning for NLP
