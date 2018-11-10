@@ -158,6 +158,15 @@ Others:
 
 - Gans in Action: Deep Learning with Generative Adversarial Network (2019)
 
+Multi-layer graphical models/ deep generative models:
+- Deep belief networks, 
+- Restricted Boltzman machines
+- GAN
+- graph networks
+- gaussian process models for hyper parameters (hyperparameter search)
+-genetic algorithms, evolution strategies, reinforcement learning
+-depthwise separable convolutions
+
 ## Best Courses
 * [Stanford CS 224D](https://www.youtube.com/watch?v=sU_Yu_USrNc&list=PLTuSSFCVeNVCXL0Tak5rJ83O-Bg_ajO5B) - Deep Learning for NLP
 * [Hugo Larochelle's Neural Networks Course](https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
