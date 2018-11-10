@@ -36,7 +36,8 @@ Python Libraries: Numpy,
 * [Scikit-Learn](http://scikit-learn.org/stable/)
 * [Matplotlib](https://matplotlib.org/)
 * [Pandas](http://pandas.pydata.org/)
- XGBoost library, 
+ XGBoost library, visualization: seaborn, matplotlib
+ scipy optimizer 
 
 Frameworks: Tensorflow, Keras, Torch, PyTorch, Caffe
 
