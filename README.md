@@ -295,6 +295,7 @@ Persons:(https://towardsdatascience.com/meet-the-heroes-of-deep-learning-648c908
 lecun, Alex, Hinton, Bengio, Schmidhuber, Karpathy, Goodfellow, Salakhutdinov, Yuanqing Lin, Pieter Abbel
 Others: towardsdatascience 
 
+Top500 computer
 
 Credits: Big thanks to all contributors to awesome lists (posted in other resources), which enabled me to find some of the courses contained in the list.
 
