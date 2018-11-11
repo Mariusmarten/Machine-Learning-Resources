@@ -288,7 +288,8 @@ loss: crossentropy, mean square error, absolut error (mathematical idea)
 Potcasts
 Blogs
 
-Company’s: Baidu, Alibana, tencent, wechat, QQ, google brain, Deepmind , waymo, Uber, Tesla, Amazon, Microsoft, Facebook, openai, apple
+Company’s: Baidu, Alibana, tencent, wechat, QQ, google brain, Deepmind , waymo, Uber, Tesla, Amazon, Microsoft, Facebook, openai, apple, Bostondynamics, SpaceX 
+
 Academia: mit, standford, Cambridge, Toronto, China?, Paris?, 
 Persons:(https://towardsdatascience.com/meet-the-heroes-of-deep-learning-648c9083ef10)
 lecun, Alex, Hinton, Bengio, Schmidhuber, Karpathy, Goodfellow, Salakhutdinov, Yuanqing Lin, Pieter Abbel
