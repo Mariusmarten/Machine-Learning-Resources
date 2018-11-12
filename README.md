@@ -1,7 +1,9 @@
 # Machine Learning Resources - Becoming a Machine Learning Expert
 From Basic to Advanced
 
-* [Prerequisites Math](#prerequisites-math): sfe
+Currently under heavy reconstruction!
+
+* [Prerequisites Math](#prerequisites-math):
 * [Prerequisites Programming](#prerequisites-programming)
 * [1. Basics Machine Learning](#3-prerequisites-programming)
 * [2. Advanced Machine Learning](#3-prerequisites-programming)
@@ -79,6 +81,8 @@ https://hackernoon.com/my-self-created-ai-masters-degree-ddc7aae92d0e
 [Spezialisierung, Engineering, Advanced]
 
 - advanced ML https://www.coursera.org/specializations/aml
+
+- https://www.deeplearningbook.org/lecture_slides.html
 
 - Kurs fast.ai
 
