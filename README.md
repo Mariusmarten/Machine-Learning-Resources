@@ -43,7 +43,8 @@ Python Libraries: Numpy,
 Frameworks: Tensorflow, Keras, Torch, PyTorch, Caffe
 https://towardsdatascience.com/deep-learning-framework-power-scores-2018-23607ddf297a
 
-* [Framework: Google (Open Source) - Tensorflow](https://www.tensorflow.org/) - This is my go-to deep library nowdays. Honestly I think it has the steepest learning curve because it takes quite a while to get comfortable with the ideas of Tensorflow variables, placeholders, and building/executing graphs. One of the big plus sides to Tensorflow is the number of Github and Stackoverflow help you can get. You can find the answer to almost any error you get in Tensorflow because someone has likely run into it before. I think that's hugely helpful. 
+* [Framework: Google (Open Source) - Tensorflow](https://www.tensorflow.org/): Tensorflow is a scalable open-source machine learning library using the programming language python. It is used for both research and production at Google.  
+
 [Github post]()
 BOOK
 * [Framework: Francois Chollet (Open Source) - Keras](https://keras.io/): high-level API
