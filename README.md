@@ -56,7 +56,7 @@ Framework Microsoft - CNTK
 
 Automated ML Frameworks:
 
-## 2. Basics Machine Learning:
+## 1. Basics Machine Learning:
 
 * [Video: 3Blue1Brown - Neural Network Playlist on Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi): Building blocks, Gradient descent, Backpropagation
 
@@ -91,7 +91,7 @@ https://hackernoon.com/my-self-created-ai-masters-degree-ddc7aae92d0e
 
 Supervised, Unsupervised, Reinforcement learning
 
-### 5.1 **Artificial Neural Networks**: 
+### 1.1 **Artificial Neural Networks**: 
 If someone wants to get started with deep learning, I think that the best approach is to first get familiar with machine learning (which you all will have done by this point) and then start with neural networks. Following the same high level understanding -> model specifics -> code -> practical example approach would be great here as well. 
 
 * [How Deep Neural Networks Work](https://www.youtube.com/watch?v=ILsA4nyG7I0): Another great tutorial by Brandon Rohrer.
@@ -99,7 +99,7 @@ If someone wants to get started with deep learning, I think that the best approa
  
 
 
-## 5.2 **Convolutional Neural Networks**:  
+## 1.2 **Convolutional Neural Networks**:  
 A convolutional neural network is a special type of neural network that has been successfully used for image processing tasks.
 * [A Beginner's Guide to Understanding CNNs](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/): Shameless plug LOL
 * [CS 231N Homepage](http://cs231n.github.io/convolutional-networks/): Stanford CS231N is a grad course focused on CNNs that was originally taught by Fei Fei Li, Andrej Karpathy, and others.
@@ -109,7 +109,7 @@ A convolutional neural network is a special type of neural network that has been
 * [Stanford CS 231N](https://www.youtube.com/watch?v=g-PvXUjD6qg&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA) - CNNs
 * [Feature Visualization](https://distill.pub/2017/feature-visualization/) - Feature VisualizationHow neural networks build up their understanding of images
 
-## 5.3 **Recurrent Neural Networks**:
+## 1.3 **Recurrent Neural Networks**:
 A recurrent neural network is a special type of neural network that has been successfully used for natural language processing tasks.
 * [Deep Learning Research Paper Review: NLP](https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-3-Natural-Language-Processing): Too many shameless plugs or nah? LOL
 * [CS 224D Video Lectures](https://www.youtube.com/playlist?list=PLCJlDcMjVoEdtem5GaohTC1o9HTTFtK7_): Stanford CS 224D is a grad course focused on RNNs and applying deep learning to NLP. 
@@ -118,7 +118,8 @@ A recurrent neural network is a special type of neural network that has been suc
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/): Chris Olah's posts are readable, yet in-depth.
 * [Introduction to RNNs](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/): Denny Britz is another great author who has a wide ranging blog.
 
-	d) **Reinforcement Learning**: While the 3 prior ML methods are necessarily important for understanding RL, a lot of recent progress in this field has combined elements from the deep learning camp as well as from the traditional reinforcement learning field. 
+## **Reinforcement Learning**: 
+While the 3 prior ML methods are necessarily important for understanding RL, a lot of recent progress in this field has combined elements from the deep learning camp as well as from the traditional reinforcement learning field. 
 	* [David Silver's Reinforcement Learning Course](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL5X3mDkKaJrL42i_jhE4N-p6E2Ol62Ofa): Advanced stuff covered here, but David is a fantastic lecturer and I loved the comprehensive content. 
 	* [Simple Reinforcement Learning with Tensorflow](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0): Arthur Juliani has a blog post series that covers RL concepts with lots of practical examples.
 	* [David Silver's Reinforcement Learning Course](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL5X3mDkKaJrL42i_jhE4N-p6E2Ol62Ofa)
@@ -132,7 +133,7 @@ A recurrent neural network is a special type of neural network that has been suc
 	f) Pretrained Models
 
 
-## 6. Advanced Machine Learning: 
+## 2.1 Advanced Machine Learning: 
 
 * [Course: Coursera - Hintons Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks): Approx. 5 weeks to complete - Perceptron, backpropagation, vectors for words, object recogntion, neural nets, optimization, recurrent neural networks, combine multiple neural networks, Hopfield nets, Boltzmann machines, Restricted Boltzman machines (RBMs), Deep Belief Nets, generative pre-training, modeling hierarchical structure
 
@@ -140,14 +141,14 @@ A recurrent neural network is a special type of neural network that has been suc
 	e) Kaggle
 	* [blog](http://blog.kaggle.com/)
 
-### 6.2 Advanced Neuronal Knowledge:
+### 2.2 Advanced Neuronal Knowledge:
 * [Harvard/Edx - Fundamentals of Neuroscience, Part 1: The Electrical Properties of the Neuron](https://www.edx.org/course/fundamentals-of-neuroscience-part-1-the-electrical-properties-of-the-neuron): Approx. 5 weeks to complete - Fundamentals of bioelectricity, resting potential, passive membranes, action potentials, nervous system
 * [Harvard/Edx - Fundamentals of Neuroscience, Part 2: Neurons and Networks](https://www.edx.org/course/fundamentals-of-neuroscience-part-2-neurons-and-networks): Approx. 6 weeks to complete - Synapses, neurons communication, interconnected neurons in neuronal circuits, neuromodulation in the firing of synapses
 
-### 6.3 Advanced Mathematical Knowledge:
+### 2.3 Advanced Mathematical Knowledge:
 * [Book: Bishop - Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf): probability theory, decision theory, information theory, probability distributions, binary/multinominal variables, gaussian distribtuion, exponential familiy, nonparametric methods, linear models for regression, bayesian linear regression, evidence approximation, linear models for classification, discrimination functions, probabilistic generative models, laplace approximation, kernel methods, sparse kernal machines
 
-## 7. Machine Learning Research (Go deeper):
+## 3. Machine Learning Research (Go deeper):
 
 https://www.coursera.org/learn/probabilistic-graphical-models
 
