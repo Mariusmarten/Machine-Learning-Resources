@@ -91,15 +91,14 @@ https://hackernoon.com/my-self-created-ai-masters-degree-ddc7aae92d0e
 
 Supervised, Unsupervised, Reinforcement learning
 
-### 1.1 **Artificial Neural Networks**: 
+Artificial Neural Networks: 
 If someone wants to get started with deep learning, I think that the best approach is to first get familiar with machine learning (which you all will have done by this point) and then start with neural networks. Following the same high level understanding -> model specifics -> code -> practical example approach would be great here as well. 
 
 * [How Deep Neural Networks Work](https://www.youtube.com/watch?v=ILsA4nyG7I0): Another great tutorial by Brandon Rohrer.
 * [A Friendly Introduction to Deep Learning and Neural Networks](https://www.youtube.com/watch?v=BR9h47Jtqyw): Another visually appearing presentation of neural nets.
  
 
-
-## 1.2 **Convolutional Neural Networks**:  
+Convolutional Neural Networks:  
 A convolutional neural network is a special type of neural network that has been successfully used for image processing tasks.
 * [A Beginner's Guide to Understanding CNNs](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/): Shameless plug LOL
 * [CS 231N Homepage](http://cs231n.github.io/convolutional-networks/): Stanford CS231N is a grad course focused on CNNs that was originally taught by Fei Fei Li, Andrej Karpathy, and others.
@@ -109,7 +108,7 @@ A convolutional neural network is a special type of neural network that has been
 * [Stanford CS 231N](https://www.youtube.com/watch?v=g-PvXUjD6qg&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA) - CNNs
 * [Feature Visualization](https://distill.pub/2017/feature-visualization/) - Feature VisualizationHow neural networks build up their understanding of images
 
-## 1.3 **Recurrent Neural Networks**:
+Recurrent Neural Networks:
 A recurrent neural network is a special type of neural network that has been successfully used for natural language processing tasks.
 * [Deep Learning Research Paper Review: NLP](https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-3-Natural-Language-Processing): Too many shameless plugs or nah? LOL
 * [CS 224D Video Lectures](https://www.youtube.com/playlist?list=PLCJlDcMjVoEdtem5GaohTC1o9HTTFtK7_): Stanford CS 224D is a grad course focused on RNNs and applying deep learning to NLP. 
@@ -118,7 +117,7 @@ A recurrent neural network is a special type of neural network that has been suc
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/): Chris Olah's posts are readable, yet in-depth.
 * [Introduction to RNNs](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/): Denny Britz is another great author who has a wide ranging blog.
 
-## **Reinforcement Learning**: 
+Reinforcement Learning: 
 While the 3 prior ML methods are necessarily important for understanding RL, a lot of recent progress in this field has combined elements from the deep learning camp as well as from the traditional reinforcement learning field. 
 	* [David Silver's Reinforcement Learning Course](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL5X3mDkKaJrL42i_jhE4N-p6E2Ol62Ofa): Advanced stuff covered here, but David is a fantastic lecturer and I loved the comprehensive content. 
 	* [Simple Reinforcement Learning with Tensorflow](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0): Arthur Juliani has a blog post series that covers RL concepts with lots of practical examples.
@@ -127,18 +126,15 @@ While the 3 prior ML methods are necessarily important for understanding RL, a l
 	* [Deep RL Arxiv Review Paper](https://arxiv.org/pdf/1701.07274v2.pdf)
 	* [Pong From Pixels](http://karpathy.github.io/2016/05/31/rl/)
 	* [Lessons Learned Reproducing a Deep RL Paper](http://amid.fish/reproducing-deep-rl)
-	
 
-	
-	f) Pretrained Models
+Pretrained Models
 
 
 ## 2.1 Advanced Machine Learning: 
 
 * [Course: Coursera - Hintons Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks): Approx. 5 weeks to complete - Perceptron, backpropagation, vectors for words, object recogntion, neural nets, optimization, recurrent neural networks, combine multiple neural networks, Hopfield nets, Boltzmann machines, Restricted Boltzman machines (RBMs), Deep Belief Nets, generative pre-training, modeling hierarchical structure
 
-
-	e) Kaggle
+e) Kaggle
 	* [blog](http://blog.kaggle.com/)
 
 ### 2.2 Advanced Neuronal Knowledge:
