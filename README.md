@@ -4,7 +4,7 @@ From Basic to Advanced
 Currently under heavy reconstruction!
 
 * [Prerequisites Math](#prerequisites-math):
-* [Prerequisites Programming](#prerequisites-programming)
+* [Prerequisites Computer Science](#prerequisites-computer-science)
 * [1. Basics Machine Learning](#3-prerequisites-programming)
 * [2. Advanced Machine Learning](#3-prerequisites-programming)
 * [3. Machine Learning Research](#3-prerequisites-programming)
@@ -18,7 +18,7 @@ Important are Linear Algebra, Probability Theory and Statistics, Regression, Mul
 * [Course: Coursera - Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning): Approx. 2 months to complete - Linear Algebra (Vectors, Matrices), Multivariate Calculus (Multivariate chain rules, Taylor series, linerarisation, optimisation, regression), Principal Component Analysis (Inner Product, Orthogonal Projections)
 
 ## Prerequisites Computer Science:
-Programming: Computer Science basics, 
+Computer Science basics: 
 
 * [Course: MIT/Edx - Introduction to Computer Science and Programming in Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python): Approx. 9 weeks to complete Computation, Branching and iteration, String Manipulation, Guess and Check, Approximations, Bisection, Decomposition, Abstraction, Functions, Tuples, Lists, Aliasing, Mutability, Cloning, Recursion, Dictionaries, Testing, Debugging, Exceptions, Assertions, Object Oriented Programming, Python Classes, Inheritance, Programm Efficiency, Searching, Sorting
 
@@ -30,7 +30,6 @@ Programms: Octave/Mathlab, Jupyter Notebooks, R
 
 Mathlab introduction course
 
-Languages: 
 
 Python Libraries: Numpy, 
 
