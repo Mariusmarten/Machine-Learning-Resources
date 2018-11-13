@@ -3,7 +3,7 @@ From Basic to Advanced
 
 Currently under heavy reconstruction!
 
-* [Prerequisites Math](#prerequisites-math):
+* [Prerequisites Math](#prerequisites-math)
 * [Prerequisites Computer Science](#prerequisites-computer-science)
 * [1. Basics Machine Learning](#3-prerequisites-programming)
 * [2. Advanced Machine Learning](#3-prerequisites-programming)
