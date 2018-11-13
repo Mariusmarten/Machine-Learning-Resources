@@ -172,7 +172,7 @@ Multi-layer graphical models/ deep generative models:
 encode: One-hot encode, k-hot encode (mathematical idea)
 loss: crossentropy, mean square error, absolut error (mathematical idea)
 
-## Best Courses
+## Other Courses
 * [Stanford CS 224D](https://www.youtube.com/watch?v=sU_Yu_USrNc&list=PLTuSSFCVeNVCXL0Tak5rJ83O-Bg_ajO5B) - Deep Learning for NLP
 * [Hugo Larochelle's Neural Networks Course](https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
 * [Stanford CS 229](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599) - Pretty much the same as the Coursera course
