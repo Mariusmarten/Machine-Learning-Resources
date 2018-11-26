@@ -190,7 +190,8 @@ loss: crossentropy, mean square error, absolut error (mathematical idea)
 * [Caltech CS 156 - Machine Learning](https://www.youtube.com/playlist?list=PLD63A284B7615313A)
 * [Berkeley EE 227C - Convex Optimization](https://ee227c.github.io/)
 
-## Most Important Deep Learning Papers
+## Deep Learning Paper
+Personally I would always prefer one book over 50 paper. But often you are unable to find a book as updated as a paper, then there is no way around. And if you know what you are looking for it’s nice.
 
 * [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 * [GoogLeNet](https://arxiv.org/pdf/1409.4842v1.pdf)
