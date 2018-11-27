@@ -268,7 +268,7 @@ Persons:(https://towardsdatascience.com/meet-the-heroes-of-deep-learning-648c908
 * [Pieter Abbeel](people.eecs.berkeley.edu/~pabbeel/): Professor, UC Berkeley, EECS, BAIR, CHCAI and Research Scientist OpenAI
 * [Andrej Karpathy](http://karpathy.github.io/): director of artificial intelligence and Autopilot Vision at Tesla
 * [Neil Lawrence](http://inverseprobability.com/blog): Professor of Machine Learning at the University of Sheffield
-* [Moritz Hardt](http://blog.mrtz.org/): Assistant Professor Department of Electrical Engineering and Computer Sciences University of California
+* [Moritz Hardt](http://blog.mrtz.org/): Assistant Professor in Electrical Engineering and Computer Sciences University of California
 * [Yoshua Bengio](www.iro.umontreal.ca/~bengioy/yoshua_en/):  Professor Department of Computer Science and Operations Research Canada Research Chair in Statistical Learning Algorithms 
 * [Jürgen Schmidhuber](www.idsia.ch/~juergen/): co-director of the Dalle Molle Institute for Artificial Intelligence Research in Manno
 * [Ian Goodfellow](https://github.com/goodfeli): Research scientist at Google Brain
