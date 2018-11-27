@@ -49,8 +49,8 @@ https://towardsdatascience.com/deep-learning-framework-power-scores-2018-23607dd
 BOOK
 * [Framework: Francois Chollet (Open Source) - Keras](https://keras.io/): high-level API
 BOOK
-* [Framework: Torch](http://torch.ch/) - 
-* [Framework: PyTorch](http://pytorch.org/) - My other friend and I have this joke where we say that if you’re running into a bug in PyTorch, you could probably read the entirety of PyTorch’s documentation in less than 2 hours and you still wouldn’t find your answer LOL. But honestly, so many AI researchers have been raving about it, so it’s definitely worth giving it a shot even though it’s still pretty young. I think Tensorflow and PyTorch will be the 2 frameworks that will start to take over the DL framework space.
+* [Framework: Torch](http://torch.ch/):
+* [Framework: PyTorch](http://pytorch.org/): 
 * [Framework: Caffe](http://caffe.berkeleyvision.org/) and [Caffe2](https://caffe2.ai/) - Never played around with Caffe, but this was one of the first deep learning libraries out there. Caffe2 is notable because it's the production framework that Facebook uses to serve its models. [According to Soumith Chintala](https://www.oreilly.com/ideas/why-ai-and-machine-learning-researchers-are-beginning-to-embrace-pytorch), researchers at Facebook will try out new models and research ideas using PyTorch and will deploy using Caffe2.
 * [Framework: Microsoft (Open Source) - CNTK](https://github.com/Microsoft/CNTK): Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
 
