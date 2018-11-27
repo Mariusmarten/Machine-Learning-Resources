@@ -8,6 +8,7 @@ Currently under heavy reconstruction!
 * [1. Basics Machine Learning](#3-prerequisites-programming)
 * [2. Advanced Machine Learning](#3-prerequisites-programming)
 * [3. Machine Learning Research](#3-prerequisites-programming)
+* [Other Resources](#prerequisites-math)
 
 ## Prerequisites Math: 
 Important are Linear Algebra, Probability Theory and Statistics, Regression, Multivariate Calculus, Algorithms and Complex Optimizations. Optional: Random Forest, SVMs, Naive Bayes, Gradient Boosted Methods, PCA:
@@ -254,17 +255,20 @@ Personally I would always prefer one book over 50 paper. But often you are unabl
 ## History of Deep Learning Papers
 
 
-## Stay tuned
+
 1) Blogs
 -add blocks from universitys
+#### Persons to follow:
+Persons:(https://towardsdatascience.com/meet-the-heroes-of-deep-learning-648c9083ef10)
+
+
+lecun, Alex, Hinton, Bengio, Schmidhuber, Karpathy, Goodfellow, Salakhutdinov, Yuanqing Lin, Pieter Abbel
 * [Andrej Karpathy](http://karpathy.github.io/)
-* [Google Research](https://research.googleblog.com/)
 * [Neil Lawrence](http://inverseprobability.com/blog)
-* [Qure.ai](http://blog.qure.ai/)
+
 * [Brandon Amos](http://bamos.github.io/blog/)
 * [Denny Britz](http://www.wildml.com/)
 * [Moritz Hardt](http://blog.mrtz.org/)
-* [Deepmind](https://deepmind.com/blog/)
 * [Machine Learning Mastery](http://machinelearningmastery.com/blog/)
 * [Smerity](http://smerity.com/articles/articles.html)
 * [The Neural Perspective](https://theneuralperspective.com/)
@@ -277,25 +281,33 @@ Personally I would always prefer one book over 50 paper. But often you are unabl
 * [CleverHans](http://www.cleverhans.io/)
 * [Off the Convex Path](http://www.offconvex.org/about/)
 * [Sebastian Ruder](http://ruder.io/#open)
-* [Berkeley AI Research](http://bair.berkeley.edu/blog/)
-* [Facebook AI Research](https://research.fb.com/blog/)
 * [Salesforce Research](https://www.salesforce.com/products/einstein/ai-research/)
 * [Apple Machine Learning Journal](https://machinelearning.apple.com/)
-* [OpenAI](https://blog.openai.com/)
 * [Lab41](https://gab41.lab41.org/tagged/machine-learning)
 * [Depth First Learning](http://www.depthfirstlearning.com/)
 * [The Gradient](https://thegradient.pub/)
 * [Distill](https://distill.pub/)
 
-2) Talks
-Potcasts
-Blogs
+#### Companies to follow:
+* [Google Research](https://research.googleblog.com/)
+* [Facebook AI Research](https://research.fb.com/blog/)
+* [OpenAI](https://blog.openai.com/)
+* [Deepmind](https://deepmind.com/blog/): Solve intelligence, use it to make the world a better place (company from Google)
+* [Qure.ai](http://blog.qure.ai/): AI for Radiology
 
 Company’s: Baidu, Alibana, tencent, wechat, QQ, google brain, Deepmind , waymo, Uber, Tesla, Amazon, Microsoft, Facebook, openai, apple, Bostondynamics, SpaceX 
 
+#### Universitys to follow:
 Academia: mit, standford, Cambridge, Toronto, China?, Paris?, 
-Persons:(https://towardsdatascience.com/meet-the-heroes-of-deep-learning-648c9083ef10)
-lecun, Alex, Hinton, Bengio, Schmidhuber, Karpathy, Goodfellow, Salakhutdinov, Yuanqing Lin, Pieter Abbel
+* [Berkeley AI Research](http://bair.berkeley.edu/blog/)
+
+Potcasts
+Blogs
+
+
+
+
+
 Others: towardsdatascience 
 
 Top500 computer
