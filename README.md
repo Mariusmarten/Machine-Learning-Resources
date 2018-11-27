@@ -263,13 +263,12 @@ Persons:(https://towardsdatascience.com/meet-the-heroes-of-deep-learning-648c908
 
 
 lecun, Alex, Hinton, Bengio, Schmidhuber, Karpathy, Goodfellow, Salakhutdinov, Yuanqing Lin, Pieter Abbel
-* [Andrej Karpathy](http://karpathy.github.io/)
-* [Neil Lawrence](http://inverseprobability.com/blog)
+* [Andrej Karpathy](http://karpathy.github.io/): director of artificial intelligence and Autopilot Vision at Tesla
+* [Neil Lawrence](http://inverseprobability.com/blog): Professor of Machine Learning at the University of Sheffield
+* [Moritz Hardt](http://blog.mrtz.org/): Assistant Professor Department of Electrical Engineering and Computer Sciences University of California
 
-* [Brandon Amos](http://bamos.github.io/blog/)
-* [Denny Britz](http://www.wildml.com/)
-* [Moritz Hardt](http://blog.mrtz.org/)
-* [Machine Learning Mastery](http://machinelearningmastery.com/blog/)
+
+
 * [Smerity](http://smerity.com/articles/articles.html)
 * [The Neural Perspective](https://theneuralperspective.com/)
 * [Pete Warden](https://petewarden.com/page/2/)
@@ -301,13 +300,16 @@ Company’s: Baidu, Alibana, tencent, wechat, QQ, google brain, Deepmind , waymo
 Academia: mit, standford, Cambridge, Toronto, China?, Paris?, 
 * [Berkeley AI Research](http://bair.berkeley.edu/blog/)
 
+
+
+
+#### Other Blogs
+* [Machine Learning Mastery](http://machinelearningmastery.com/blog/)
+
+
+
+
 Potcasts
-Blogs
-
-
-
-
-
 Others: towardsdatascience 
 
 Top500 computer
