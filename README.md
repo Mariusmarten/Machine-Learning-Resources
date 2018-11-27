@@ -273,6 +273,14 @@ Persons:(https://towardsdatascience.com/meet-the-heroes-of-deep-learning-648c908
 * [Jürgen Schmidhuber](www.idsia.ch/~juergen/): co-director of the Dalle Molle Institute for Artificial Intelligence Research in Manno
 * [Ian Goodfellow](https://github.com/goodfeli): Research scientist at Google Brain
 
+Ilya Sutskever
+Wojciech Zaremba
+Fei-Fei Li
+Demis Hassabi
+Vladimir Vapnik
+Michael I. Jordan
+Christopher M. Bishop - Microsoft
+Zoubin Ghahramani - Uber
 
 Yoshua Bengio - Full Professor, Computer Science
 
