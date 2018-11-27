@@ -154,8 +154,7 @@ https://www.coursera.org/learn/probabilistic-graphical-models
 Others:
 
 
-* [Book: The Master Algorithm - Petro Domingos](https://www.amazon.de/Master-Algorithm-Ultimate-Learning-Machine/dp/0141979240/ref=sr_1_1?ie=UTF8&qid=1538107975&sr=8-1&keywords=master+algorithm): Symbolists (rule System, inverse deduction), Connectionsis (backpropagation, deep learnin), Bayesians (HMM, graphical model), Evolutionaries (genetic algorithms, evolutionary programming), Analogizer (kNN, SVM)
-* [Book: Life 3.0: Being Human in the Age of Artificial Intelligence - Max Tegmark](https://www.amazon.de/Life-3-0-Being-Artificial-Intelligence/dp/0141981806/ref=sr_1_1?s=books-intl-de&ie=UTF8&qid=1540382287&sr=1-1&keywords=tegmark): implications of AI, future AGI
+
 
 - Book Aurélien Géron (march 2019)
 
@@ -252,9 +251,10 @@ Personally I would always prefer one book over 50 paper. But often you are unabl
 * [MobileNets](https://arxiv.org/pdf/1704.04861.pdf)
 * [Learning from Imbalanced Data](http://www.ele.uri.edu/faculty/he/PDFfiles/ImbalancedLearning.pdf)
 
-## History of Deep Learning Papers
+## Other Resources 
 
-
+* [Book: The Master Algorithm - Petro Domingos](https://www.amazon.de/Master-Algorithm-Ultimate-Learning-Machine/dp/0141979240/ref=sr_1_1?ie=UTF8&qid=1538107975&sr=8-1&keywords=master+algorithm): Symbolists (rule System, inverse deduction), Connectionsis (backpropagation, deep learnin), Bayesians (HMM, graphical model), Evolutionaries (genetic algorithms, evolutionary programming), Analogizer (kNN, SVM)
+* [Book: Life 3.0: Being Human in the Age of Artificial Intelligence - Max Tegmark](https://www.amazon.de/Life-3-0-Being-Artificial-Intelligence/dp/0141981806/ref=sr_1_1?s=books-intl-de&ie=UTF8&qid=1540382287&sr=1-1&keywords=tegmark): implications of AI, future AGI
 
 1) Blogs
 -add blocks from universitys
@@ -262,15 +262,28 @@ Personally I would always prefer one book over 50 paper. But often you are unabl
 Persons:(https://towardsdatascience.com/meet-the-heroes-of-deep-learning-648c9083ef10)
 
 
-lecun, Alex, Hinton, Bengio, Schmidhuber, Karpathy, Goodfellow, Salakhutdinov, Yuanqing Lin, Pieter Abbel
+* [Yann LeCun](http://yann.lecun.com/): Director of AI Research, Facebook and Founding Director of the NYU Center for Data Science
+Andrew NG
+
+Geoffrey Hinton - Professor at University of Toronto and Research Scientist at the Google Brain
+
+Bengio, 
+Schmidhuber, 
+Karpathy, 
+Ian Goodfellow - Research scientist at Google Brain
+
+Yoshua Bengio - Full Professor, Computer Science
+
+Ruslan Salakhutdinov - Director of AI research at Apple and Professor of computer science
+Yuanqing Lin, 
+Pieter Abbel
 * [Andrej Karpathy](http://karpathy.github.io/): director of artificial intelligence and Autopilot Vision at Tesla
 * [Neil Lawrence](http://inverseprobability.com/blog): Professor of Machine Learning at the University of Sheffield
 * [Moritz Hardt](http://blog.mrtz.org/): Assistant Professor Department of Electrical Engineering and Computer Sciences University of California
 
 
 
-* [Smerity](http://smerity.com/articles/articles.html)
-* [The Neural Perspective](https://theneuralperspective.com/)
+
 * [Pete Warden](https://petewarden.com/page/2/)
 * [Kevin Zakka](https://kevinzakka.github.io/)
 * [Thomas Dinsmore](https://thomaswdinsmore.com/)
