@@ -263,7 +263,7 @@ Persons:(https://towardsdatascience.com/meet-the-heroes-of-deep-learning-648c908
 
 
 * [Yann LeCun](http://yann.lecun.com/): Director of AI Research, Facebook and Founding Director of the NYU Center for Data Science
-Andrew NG
+* [Andrew NG](https://www.andrewng.org/): founder of Coursera, led Google Brain and was a former Chief Scientist at Baidu
 
 Geoffrey Hinton - Professor at University of Toronto and Research Scientist at the Google Brain
 
@@ -280,7 +280,6 @@ Pieter Abbel
 * [Andrej Karpathy](http://karpathy.github.io/): director of artificial intelligence and Autopilot Vision at Tesla
 * [Neil Lawrence](http://inverseprobability.com/blog): Professor of Machine Learning at the University of Sheffield
 * [Moritz Hardt](http://blog.mrtz.org/): Assistant Professor Department of Electrical Engineering and Computer Sciences University of California
-
 
 
 
