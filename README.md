@@ -270,10 +270,10 @@ Personally I would always prefer one book over 50 paper. But often you are unabl
 * [Yoshua Bengio](www.iro.umontreal.ca/~bengioy/yoshua_en/):  Professor Department of Computer Science and Operations Research Canada Research
 * [Jürgen Schmidhuber](www.idsia.ch/~juergen/): co-director of the Dalle Molle Institute for Artificial Intelligence Research in Manno
 * [Ian Goodfellow](https://github.com/goodfeli): Research scientist at Google Brain
+* [Ilya Sutskever](www.cs.toronto.edu/~ilya/): Chief scientist of OpenAI, coinventor of AlexNet
+* [Wojciech Zaremba](wojzaremba.com/): Head of Robotics research at OpenAI
+* [Fei-Fei Li](vision.stanford.edu/feifeili/):Professor at the Computer Science Department at Stanford University
 
-Ilya Sutskever
-Wojciech Zaremba
-Fei-Fei Li
 Demis Hassabi
 Vladimir Vapnik
 Michael I. Jordan
