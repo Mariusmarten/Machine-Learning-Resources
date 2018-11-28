@@ -296,7 +296,9 @@ Yuanqing Lin,
 * [Off the Convex Path](http://www.offconvex.org/about/)
 * [Sebastian Ruder](http://ruder.io/#open)
 * [Salesforce Research](https://www.salesforce.com/products/einstein/ai-research/)
-* [Apple Machine Learning Journal](https://machinelearning.apple.com/)
+
+
+
 * [Lab41](https://gab41.lab41.org/tagged/machine-learning)
 * [Depth First Learning](http://www.depthfirstlearning.com/)
 * [The Gradient](https://thegradient.pub/)
@@ -308,8 +310,13 @@ Yuanqing Lin,
 * [OpenAI](https://blog.openai.com/)
 * [Deepmind](https://deepmind.com/blog/): Solve intelligence, use it to make the world a better place (company from Google)
 * [Qure.ai](http://blog.qure.ai/): AI for Radiology
+* [Baidu](http://research.baidu.com/): specializing in Internet-related services and products and artificial intelligence
+* [Alibaba](https://damo.alibaba.com/labs/ai): specializing in e-commerce, retail, Internet, AI and technology
+* [Apple](https://machinelearning.apple.com/)
 
-Company’s: Baidu, Alibana, tencent, wechat, QQ, google brain, Deepmind , waymo, Uber, Tesla, Amazon, Microsoft, Facebook, openai, apple, Bostondynamics, SpaceX 
+tencent
+wechat
+QQ, google brain, Deepmind , waymo, Uber, Tesla, Amazon, Microsoft, Facebook, openai, Bostondynamics, SpaceX 
 
 #### Universitys to follow:
 Academia: mit, standford, Cambridge, Toronto, China?, Paris?, 
