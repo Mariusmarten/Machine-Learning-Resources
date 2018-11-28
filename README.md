@@ -258,7 +258,7 @@ Personally I would always prefer one book over 50 paper. But often you are unabl
 
 1) Blogs
 -add blocks from universitys
-#### Persons to follow:
+#### People to follow:
 
 * [Yann LeCun](http://yann.lecun.com/): Director of AI Research, Facebook and Founding Director of the NYU Center for Data Science
 * [Andrew NG](https://www.andrewng.org/): founder of Coursera, led Google Brain and was a former Chief Scientist at Baidu
