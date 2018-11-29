@@ -322,6 +322,7 @@ QQ, google brain, Deepmind , waymo, Uber, Tesla, Amazon, Microsoft, Facebook, op
 #### Universitys to follow:
 Academia: mit, standford, Cambridge, Toronto, China?, Paris?, 
 * [Berkeley AI Research](http://bair.berkeley.edu/blog/)
+https://ml.berkeley.edu/blog/
 
 
 
