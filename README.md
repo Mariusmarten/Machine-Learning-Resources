@@ -283,7 +283,7 @@ Zoubin Ghahramani - Uber
 Yoshua Bengio - Full Professor, Computer Science
 
 Ruslan Salakhutdinov - Director of AI research at Apple and Professor of computer science
-Yuanqing Lin, 
+Yuanqing Lin, Jeff Dean
 
 
 * [Pete Warden](https://petewarden.com/page/2/)
