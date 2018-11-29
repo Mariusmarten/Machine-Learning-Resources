@@ -313,6 +313,7 @@ Yuanqing Lin,
 * [Baidu](http://research.baidu.com/): specializing in Internet-related services and products and artificial intelligence
 * [Alibaba](https://damo.alibaba.com/labs/ai): specializing in e-commerce, retail, Internet, AI and technology
 * [Apple](https://machinelearning.apple.com/)
+ Vicarious
 
 tencent
 wechat
