@@ -273,12 +273,11 @@ Personally I would always prefer one book over 50 paper. But often you are unabl
 * [Ilya Sutskever](www.cs.toronto.edu/~ilya/): Chief scientist of OpenAI, coinventor of AlexNet
 * [Wojciech Zaremba](wojzaremba.com/): Head of Robotics research at OpenAI
 * [Fei-Fei Li](vision.stanford.edu/feifeili/):Professor at the Computer Science Department at Stanford University
-
-Demis Hassabi
-Vladimir Vapnik
-Michael I. Jordan
-Christopher M. Bishop - Microsoft
-Zoubin Ghahramani - Uber
+* [Demis Hassabi](https://twitter.com/demishassabis?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor):cofounder of renowned artificial intelligence (AI) lab DeepMind
+* [Vladimir Vapnik](https://datascience.columbia.edu/vladimir-vapnik):co-inventor of the support vector machine method, and support vector clustering algorithm
+* [Michael I. Jordan](
+* [Christopher M. Bishop]( - Microsoft
+* [Zoubin Ghahramani]( - Uber
 
 Yoshua Bengio - Full Professor, Computer Science
 
