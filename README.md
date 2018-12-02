@@ -275,9 +275,9 @@ Personally I would always prefer one book over 50 paper. But often you are unabl
 * [Fei-Fei Li](vision.stanford.edu/feifeili/):Professor at the Computer Science Department at Stanford University
 * [Demis Hassabi](https://twitter.com/demishassabis?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor):cofounder of renowned artificial intelligence (AI) lab DeepMind
 * [Vladimir Vapnik](https://datascience.columbia.edu/vladimir-vapnik):co-inventor of the support vector machine method, and support vector clustering algorithm
-* [Michael I. Jordan](
-* [Christopher M. Bishop]( - Microsoft
-* [Zoubin Ghahramani]( - Uber
+* [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/):professor at the University of California, Berkeley
+* [Christopher M. Bishop](https://www.microsoft.com/en-us/research/people/cmbishop/):Laboratory Director at Microsoft Research Cambridge
+* [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/):Professor at Cambridge, the Alan Turing Institute and Chief Scientist of Uber
 
 Yoshua Bengio - Full Professor, Computer Science
 
