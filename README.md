@@ -279,11 +279,10 @@ Personally I would always prefer one book over 50 paper. But often you are unabl
 * [Christopher M. Bishop](https://www.microsoft.com/en-us/research/people/cmbishop/):Laboratory Director at Microsoft Research Cambridge
 * [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/):Professor at Cambridge, the Alan Turing Institute and Chief Scientist of Uber
 
-Yoshua Bengio - Full Professor, Computer Science
-
-Ruslan Salakhutdinov - Director of AI research at Apple and Professor of computer science
-Yuanqing Lin, Jeff Dean
-
+* [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/): Full Professor CS, head of the Machine Learning Laboratory, Montreal
+* [Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/): Director of AI research at Apple and Professor of computer science in Mellon
+* [Yuanqing Lin]
+* [Jeff Dean]
 
 * [Pete Warden](https://petewarden.com/page/2/)
 * [Kevin Zakka](https://kevinzakka.github.io/)
@@ -295,8 +294,6 @@ Yuanqing Lin, Jeff Dean
 * [Off the Convex Path](http://www.offconvex.org/about/)
 * [Sebastian Ruder](http://ruder.io/#open)
 * [Salesforce Research](https://www.salesforce.com/products/einstein/ai-research/)
-
-
 
 * [Lab41](https://gab41.lab41.org/tagged/machine-learning)
 * [Depth First Learning](http://www.depthfirstlearning.com/)
