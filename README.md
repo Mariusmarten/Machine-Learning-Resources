@@ -283,16 +283,16 @@ Personally I would always prefer one book over 50 paper. But often you are unabl
 * [Pete Warden](https://petewarden.com/page/2/): Lead of the TensorFlow Mobile/Embedded team
 
 #### Companies to follow:
-* [Google Research](https://research.googleblog.com/)
-* [Facebook AI Research](https://research.fb.com/blog/)
-* [OpenAI](https://blog.openai.com/)
+* [Google Research](https://research.googleblog.com/)Research department from Google
+* [Facebook AI Research](https://research.fb.com/blog/): Research Unit from Facebook
+* [OpenAI](https://blog.openai.com/): Company founded by Elon Musk for AI safety
 * [Deepmind](https://deepmind.com/blog/): Solve intelligence, use it to make the world a better place (company from Google)
 * [Qure.ai](http://blog.qure.ai/): AI for Radiology
 * [Baidu](http://research.baidu.com/): specializing in Internet-related services and products and artificial intelligence
 * [Alibaba](https://damo.alibaba.com/labs/ai): specializing in e-commerce, retail, Internet, AI and technology
-* [Apple Research](https://machinelearning.apple.com/)
+* [Apple Research](https://machinelearning.apple.com/): Research department from Apple
 
-* [Lab41](https://gab41.lab41.org/tagged/machine-learning)
+
 * [Depth First Learning](http://www.depthfirstlearning.com/)
 * [The Gradient](https://thegradient.pub/)
 * [Distill](https://distill.pub/)
@@ -301,24 +301,28 @@ Personally I would always prefer one book over 50 paper. But often you are unabl
 * [Sebastian Ruder](http://ruder.io/#open)
 * [Salesforce Research](https://www.salesforce.com/products/einstein/ai-research/)
 
- Vicarious
-
-tencent
-wechat
-QQ, google brain, Deepmind , waymo, Uber, Tesla, Amazon, Microsoft, Facebook, openai, Bostondynamics, SpaceX 
+* [Vicarious]
+* [Tencent]
+* [Wechat]
+* [QQ]
+* [Google Brain]
+* [Deepmind]
+* [Waymo]
+* [Uber]
+* [Tesla]
+* [Amazon]
+* [Microsoft]
+* [Bostondynamics]
+* [SpaceX]
 
 #### Universitys to follow:
 Academia: mit, standford, Cambridge, Toronto, China?, Paris?, 
 * [Berkeley AI Research](http://bair.berkeley.edu/blog/)
 https://ml.berkeley.edu/blog/
 
-
-
-
 #### Other Blogs
 * [Machine Learning Mastery](http://machinelearningmastery.com/blog/)
-
-
+* [Lab41](https://gab41.lab41.org/tagged/machine-learning): Lab41's blog exploring data science, machine learning, and artificial intelligence
 
 
 Potcasts
