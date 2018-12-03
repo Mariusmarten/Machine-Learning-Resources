@@ -280,7 +280,7 @@ Personally I would always prefer one book over 50 paper. But often you are unabl
 * [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/): Full Professor CS, head of the Machine Learning Laboratory, Montreal
 * [Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/): Director of AI research at Apple and Professor of computer science in Mellon
 
-* [Yuanqing Lin](): Former Head of Baidu Research 
+* [Yuanqing Lin](https://cn.linkedin.com/in/yuanqing-lin-8666789): Former Head of Baidu Research, now at AI startup Aibee.ai
 * [Jeff Dean]():
 
 * [Pete Warden](https://petewarden.com/page/2/)
