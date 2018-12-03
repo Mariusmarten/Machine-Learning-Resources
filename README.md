@@ -270,17 +270,17 @@ Personally I would always prefer one book over 50 paper. But often you are unabl
 * [Ian Goodfellow](https://github.com/goodfeli): Research scientist at Google Brain
 * [Ilya Sutskever](www.cs.toronto.edu/~ilya/): Chief scientist of OpenAI, coinventor of AlexNet
 * [Wojciech Zaremba](wojzaremba.com/): Head of Robotics research at OpenAI
-* [Fei-Fei Li](vision.stanford.edu/feifeili/):Professor at the Computer Science Department at Stanford University
-* [Demis Hassabi](https://twitter.com/demishassabis?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor):cofounder of renowned artificial intelligence (AI) lab DeepMind
-* [Vladimir Vapnik](https://datascience.columbia.edu/vladimir-vapnik):co-inventor of the support vector machine method, and support vector clustering algorithm
-* [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/):professor at the University of California, Berkeley
-* [Christopher M. Bishop](https://www.microsoft.com/en-us/research/people/cmbishop/):Laboratory Director at Microsoft Research Cambridge
-* [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/):Professor at Cambridge, the Alan Turing Institute and Chief Scientist of Uber
+* [Fei-Fei Li](vision.stanford.edu/feifeili/): Professor at the Computer Science Department at Stanford University
+* [Demis Hassabi](https://twitter.com/demishassabis?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor): Cofounder of renowned artificial intelligence (AI) lab DeepMind
+* [Vladimir Vapnik](https://datascience.columbia.edu/vladimir-vapnik): Co-inventor of the support vector machine method, and support vector clustering algorithm
+* [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/): Professor at the University of California, Berkeley
+* [Christopher M. Bishop](https://www.microsoft.com/en-us/research/people/cmbishop/): Laboratory Director at Microsoft Research Cambridge
+* [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/): Professor at Cambridge, the Alan Turing Institute and Chief Scientist of Uber
 
 * [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/): Full Professor CS, head of the Machine Learning Laboratory, Montreal
 * [Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/): Director of AI research at Apple and Professor of computer science in Mellon
 
-* [Yuanqing Lin]():
+* [Yuanqing Lin](): Former Head of Baidu Research 
 * [Jeff Dean]():
 
 * [Pete Warden](https://petewarden.com/page/2/)
