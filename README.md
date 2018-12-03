@@ -276,28 +276,11 @@ Personally I would always prefer one book over 50 paper. But often you are unabl
 * [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/): Professor at the University of California, Berkeley
 * [Christopher M. Bishop](https://www.microsoft.com/en-us/research/people/cmbishop/): Laboratory Director at Microsoft Research Cambridge
 * [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/): Professor at Cambridge, the Alan Turing Institute and Chief Scientist of Uber
-
 * [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/): Full Professor CS, head of the Machine Learning Laboratory, Montreal
 * [Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/): Director of AI research at Apple and Professor of computer science in Mellon
-
 * [Yuanqing Lin](https://cn.linkedin.com/in/yuanqing-lin-8666789): Former Head of Baidu Research, now at AI startup Aibee.ai
-* [Jeff Dean]():
-
-* [Pete Warden](https://petewarden.com/page/2/)
-* [Kevin Zakka](https://kevinzakka.github.io/)
-* [Thomas Dinsmore](https://thomaswdinsmore.com/)
-* [Rohan Varma](http://rohanvarma.me/)
-* [Anish Athalye](https://www.anishathalye.com/)
-* [Arthur Juliani](https://medium.com/@awjuliani)
-* [CleverHans](http://www.cleverhans.io/)
-* [Off the Convex Path](http://www.offconvex.org/about/)
-* [Sebastian Ruder](http://ruder.io/#open)
-* [Salesforce Research](https://www.salesforce.com/products/einstein/ai-research/)
-
-* [Lab41](https://gab41.lab41.org/tagged/machine-learning)
-* [Depth First Learning](http://www.depthfirstlearning.com/)
-* [The Gradient](https://thegradient.pub/)
-* [Distill](https://distill.pub/)
+* [Jeff Dean](https://ai.google/research/people/jeff): Lead of Google.ai
+* [Pete Warden](https://petewarden.com/page/2/): Lead of the TensorFlow Mobile/Embedded team
 
 #### Companies to follow:
 * [Google Research](https://research.googleblog.com/)
@@ -307,7 +290,17 @@ Personally I would always prefer one book over 50 paper. But often you are unabl
 * [Qure.ai](http://blog.qure.ai/): AI for Radiology
 * [Baidu](http://research.baidu.com/): specializing in Internet-related services and products and artificial intelligence
 * [Alibaba](https://damo.alibaba.com/labs/ai): specializing in e-commerce, retail, Internet, AI and technology
-* [Apple](https://machinelearning.apple.com/)
+* [Apple Research](https://machinelearning.apple.com/)
+
+* [Lab41](https://gab41.lab41.org/tagged/machine-learning)
+* [Depth First Learning](http://www.depthfirstlearning.com/)
+* [The Gradient](https://thegradient.pub/)
+* [Distill](https://distill.pub/)
+* [CleverHans](http://www.cleverhans.io/)
+* [Off the Convex Path](http://www.offconvex.org/about/)
+* [Sebastian Ruder](http://ruder.io/#open)
+* [Salesforce Research](https://www.salesforce.com/products/einstein/ai-research/)
+
  Vicarious
 
 tencent
