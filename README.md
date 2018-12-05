@@ -300,7 +300,6 @@ Personally I would always prefer one book over 50 paper. But often you are unabl
 * [Off the Convex Path](http://www.offconvex.org/about/)
 * [Sebastian Ruder](http://ruder.io/#open)
 * [Salesforce Research](https://www.salesforce.com/products/einstein/ai-research/)
-
 * [Vicarious]
 * [Tencent]
 * [Wechat]
@@ -316,7 +315,10 @@ Personally I would always prefer one book over 50 paper. But often you are unabl
 * [SpaceX]
 
 #### Universitys to follow:
-Academia: mit, standford, Cambridge, Toronto, China?, Paris?, 
+ 
+MIT
+standford, 
+Cambridge, Toronto, China?, Paris?, 
 * [Berkeley AI Research](http://bair.berkeley.edu/blog/)
 https://ml.berkeley.edu/blog/
 
