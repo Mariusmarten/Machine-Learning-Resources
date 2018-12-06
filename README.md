@@ -281,6 +281,7 @@ Personally I would always prefer one book over 50 paper. But often you are unabl
 * [Yuanqing Lin](https://cn.linkedin.com/in/yuanqing-lin-8666789): Former Head of Baidu Research, now at AI startup Aibee.ai
 * [Jeff Dean](https://ai.google/research/people/jeff): Lead of Google.ai
 * [Pete Warden](https://petewarden.com/page/2/): Lead of the TensorFlow Mobile/Embedded team
+* [Sebastian Ruder](http://ruder.io/#open): PhD Student in Natural Language Processing and Deep Learning
 
 #### Companies to follow:
 * [Google Research](https://research.googleblog.com/)Research department from Google
@@ -291,17 +292,9 @@ Personally I would always prefer one book over 50 paper. But often you are unabl
 * [Baidu](http://research.baidu.com/): specializing in Internet-related services and products and artificial intelligence
 * [Alibaba](https://damo.alibaba.com/labs/ai): specializing in e-commerce, retail, Internet, AI and technology
 * [Apple Research](https://machinelearning.apple.com/): Research department from Apple
-
-
-* [Depth First Learning](http://www.depthfirstlearning.com/)
-* [The Gradient](https://thegradient.pub/)
-* [Distill](https://distill.pub/)
-* [CleverHans](http://www.cleverhans.io/)
-* [Off the Convex Path](http://www.offconvex.org/about/)
-* [Sebastian Ruder](http://ruder.io/#open)
-* [Salesforce Research](https://www.salesforce.com/products/einstein/ai-research/)
-* [Vicarious]
-* [Tencent]
+* [Vicarious](https://www.vicarious.com): using the theorized computational principles of the brain to build software
+* [Salesforce Research](https://www.salesforce.com/products/einstein/ai-research/): cloud-based software company 
+* [Tencent](https://ai.tencent.com/ailab/index.html): AI lab in Shenzhen with a vision to “Make AI Everywhere"
 * [Wechat]
 * [QQ]
 * [Google Brain]
@@ -322,13 +315,19 @@ Cambridge, Toronto, China?, Paris?,
 * [Berkeley AI Research](http://bair.berkeley.edu/blog/)
 https://ml.berkeley.edu/blog/
 
-#### Other Blogs
+#### Blogs etc. to follow:
 * [Machine Learning Mastery](http://machinelearningmastery.com/blog/)
 * [Lab41](https://gab41.lab41.org/tagged/machine-learning): Lab41's blog exploring data science, machine learning, and artificial intelligence
+* [Depth First Learning](http://www.depthfirstlearning.com/)
+* [The Gradient](https://thegradient.pub/)
+* [CleverHans](http://www.cleverhans.io/)
+* [Off the Convex Path](http://www.offconvex.org/about/)
+* [Distill](https://distill.pub/)
+* [Towards Data Science](https://towardsdatascience.com/)
 
 
-Potcasts
-Others: towardsdatascience 
+Potcasts (ML, datasceptic)
+
 
 Top500 computer
 
