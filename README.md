@@ -284,10 +284,11 @@ Personally I would always prefer one book over 50 paper. But often you are unabl
 * [Sebastian Ruder](http://ruder.io/#open): PhD Student in Natural Language Processing and Deep Learning
 
 #### Companies to follow:
-* [Google Research](https://research.googleblog.com/)Research department from Google
-* [Facebook AI Research](https://research.fb.com/blog/): Research Unit from Facebook
-* [OpenAI](https://blog.openai.com/): Company founded by Elon Musk for AI safety
+* [Google Research](https://research.googleblog.com/): Research department from Google
+* [Google Brain](https://ai.google/research/teams/brain): deep learning artificial intelligence research team at Google
 * [Deepmind](https://deepmind.com/blog/): Solve intelligence, use it to make the world a better place (company from Google)
+* [Waymo](https://waymo.com/tech/): develop machine learning solutions addressing open problems in autonomous driving
+* [Facebook AI Research](https://research.fb.com/blog/): Research Unit from Facebook
 * [Qure.ai](http://blog.qure.ai/): AI for Radiology
 * [Baidu](http://research.baidu.com/): specializing in Internet-related services and products and artificial intelligence
 * [Alibaba](https://damo.alibaba.com/labs/ai): specializing in e-commerce, retail, Internet, AI and technology
@@ -295,25 +296,26 @@ Personally I would always prefer one book over 50 paper. But often you are unabl
 * [Vicarious](https://www.vicarious.com): using the theorized computational principles of the brain to build software
 * [Salesforce Research](https://www.salesforce.com/products/einstein/ai-research/): cloud-based software company 
 * [Tencent](https://ai.tencent.com/ailab/index.html): AI lab in Shenzhen with a vision to “Make AI Everywhere"
-* [Wechat]
-* [QQ]
-* [Google Brain]
-* [Deepmind]
-* [Waymo]
-* [Uber]
-* [Tesla]
-* [Amazon]
-* [Microsoft]
-* [Bostondynamics]
-* [SpaceX]
+* [Wechat](https://ai.weixin.qq.com): Chinese multi-purpose messaging, social media and mobile payment app 
+* [QQ](https://ai.qq.com): instant messaging software service developed by the Chinese company Shenzhen Tencent
+* [Uber](https://eng.uber.com/tag/uber-ai-labs/)
+* [OpenAI](https://blog.openai.com/): Company founded by Elon Musk for AI safety
+* [Amazon](https://aws.amazon.com/de/blogs/machine-learning/): Research Blog from Amazon
+* [Microsoft](https://www.microsoft.com/en-us/research/): Research department from Mircosoft
+* [Bostondynamics](https://www.bostondynamics.com): American engineering and robotics design company
+
 
 #### Universitys to follow:
- 
-MIT
-standford, 
-Cambridge, Toronto, China?, Paris?, 
+
 * [Berkeley AI Research](http://bair.berkeley.edu/blog/)
 https://ml.berkeley.edu/blog/
+MIT
+Standfort
+Cambridge
+Caltech
+Toronto
+China?, Paris?, 
+
 
 #### Blogs etc. to follow:
 * [Machine Learning Mastery](http://machinelearningmastery.com/blog/)
@@ -324,11 +326,10 @@ https://ml.berkeley.edu/blog/
 * [Off the Convex Path](http://www.offconvex.org/about/)
 * [Distill](https://distill.pub/)
 * [Towards Data Science](https://towardsdatascience.com/)
+* [Podcast: ML]()
+* [Podcast: Datasceptic]()
 
-
-Potcasts (ML, datasceptic)
-
-
+* [Podcast: ML](https://www.top500.org): TOP500 List of the world’s fastest supercomputers
 Top500 computer
 
 Credits: Big thanks to all contributors to awesome lists (posted in other resources), which enabled me to find some of the courses contained in the list.
