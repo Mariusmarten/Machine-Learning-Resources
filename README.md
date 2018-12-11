@@ -193,8 +193,7 @@ Personally I would always prefer one book over 50 paper. But often you are unabl
 
 * [Arxiv](https://arxiv.org/):
 * [Arxiv Sanity](http://arxiv-sanity.com):
-
-
+* [Paperscape](http://paperscape.org):
 * [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 * [GoogLeNet](https://arxiv.org/pdf/1409.4842v1.pdf)
 * [VGGNet](https://arxiv.org/pdf/1409.1556v6.pdf)
