@@ -45,7 +45,7 @@ Frameworks: Tensorflow, Keras, Torch, PyTorch, Caffe
 https://towardsdatascience.com/deep-learning-framework-power-scores-2018-23607ddf297a
 
 * [Framework: Google (Open Source) - Tensorflow](https://www.tensorflow.org/): Tensorflow is a scalable open-source machine learning library using the programming language python. It is used for both research and production at Google.  
-	* [Book: Aurélien Géron - Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems ](https://www.amazon.com/dp/1491962291/ref=pd_lpo_sbs_dp_ss_1?pf_rd_p=b4bbef4e-170e-463d-8538-7eff3394b224&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=1617294438&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=1B72PP7FK6A643QXQ1N6&pf_rd_r=1B72PP7FK6A643QXQ1N6&pf_rd_p=b4bbef4e-170e-463d-8538-7eff3394b224)
+	* [Book: Aurélien Géron - Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.amazon.com/dp/1491962291/ref=pd_lpo_sbs_dp_ss_1?pf_rd_p=b4bbef4e-170e-463d-8538-7eff3394b224&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=1617294438&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=1B72PP7FK6A643QXQ1N6&pf_rd_r=1B72PP7FK6A643QXQ1N6&pf_rd_p=b4bbef4e-170e-463d-8538-7eff3394b224)
 * [Framework: Francois Chollet (Open Source) - Keras](https://keras.io/): high-level API and open source neural network library written in Python
 	* [Book: Francois Chollet - Keras](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438)
 * [Framework: Torch](http://torch.ch/):open-source machine learning library, writtin in Lua, C, CUDA, C++
