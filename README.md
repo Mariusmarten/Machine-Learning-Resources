@@ -11,7 +11,7 @@ Currently under heavy reconstruction!
 * [Other Resources](#prerequisites-math)
 
 <p align="center">
-  <img width="460" height="300" src="Gradientdescent.gif">
+  <img width="500" height="288" src="Gradientdescent.gif">
 </p>
 
 ## Prerequisites Math: 
@@ -61,7 +61,7 @@ https://towardsdatascience.com/deep-learning-framework-power-scores-2018-23607dd
 Automated ML Frameworks:
 
 <p align="center">
-  <img width="300" height="300" src="Neural_Networks.png">
+  <img width="666" height="999" src="Neural_Networks.png">
 </p>
 
 ## 1. Basics Machine Learning:
