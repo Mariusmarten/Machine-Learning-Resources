@@ -61,7 +61,7 @@ https://towardsdatascience.com/deep-learning-framework-power-scores-2018-23607dd
 Automated ML Frameworks:
 
 <p align="center">
-  <img width="300" height="300" src="neural_networks.png">
+  <img width="300" height="300" src="Neural_Networks.png">
 </p>
 
 ## 1. Basics Machine Learning:
