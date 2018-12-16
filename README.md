@@ -10,6 +10,10 @@ Currently under heavy reconstruction!
 * [3. Machine Learning Research](#3-prerequisites-programming)
 * [Other Resources](#prerequisites-math)
 
+<p align="center">
+  <img width="460" height="300" src="Gradientdescent.gif">
+</p>
+
 ## Prerequisites Math: 
 Important are Linear Algebra, Probability Theory and Statistics, Regression, Multivariate Calculus, Algorithms and Complex Optimizations. Optional: Random Forest, SVMs, Naive Bayes, Gradient Boosted Methods, PCA:
 * [Course: Khan Academy’s - Intro Linear Algebra, Statistics, Calculus](https://www.khanacademy.org/math): Linear Algebra, Probability & Statistics, Multivariable Calculus and Optimization
