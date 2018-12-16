@@ -61,7 +61,7 @@ https://towardsdatascience.com/deep-learning-framework-power-scores-2018-23607dd
 Automated ML Frameworks:
 
 <p align="center">
-  <img width="300" height="300" src="neural-networks.png">
+  <img width="300" height="300" src="neural_networks.png">
 </p>
 
 ## 1. Basics Machine Learning:
@@ -142,8 +142,8 @@ Pretrained Models
 
 * [Course: Coursera - Hintons Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks): Approx. 5 weeks to complete - Perceptron, backpropagation, vectors for words, object recogntion, neural nets, optimization, recurrent neural networks, combine multiple neural networks, Hopfield nets, Boltzmann machines, Restricted Boltzman machines (RBMs), Deep Belief Nets, generative pre-training, modeling hierarchical structure
 
-e) Kaggle
-	* [blog](http://blog.kaggle.com/)
+
+* [Kaggle](http://blog.kaggle.com/): Data-science competitions
 
 ### 2.2 Advanced Neuronal Knowledge:
 * [Harvard/Edx - Fundamentals of Neuroscience, Part 1: The Electrical Properties of the Neuron](https://www.edx.org/course/fundamentals-of-neuroscience-part-1-the-electrical-properties-of-the-neuron): Approx. 5 weeks to complete - Fundamentals of bioelectricity, resting potential, passive membranes, action potentials, nervous system
@@ -157,9 +157,6 @@ e) Kaggle
 https://www.coursera.org/learn/probabilistic-graphical-models
 
 Others:
-
-
-
 
 - Book Aurélien Géron (march 2019)
 
