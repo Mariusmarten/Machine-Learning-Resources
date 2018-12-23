@@ -330,11 +330,10 @@ China?, Paris?,
 * [CleverHans](http://www.cleverhans.io/)
 * [Off the Convex Path](http://www.offconvex.org/about/)
 * [Distill](https://distill.pub/)
-* [Towards Data Science](https://towardsdatascience.com/)
-* [Podcast: ML]()
-* [Podcast: Datasceptic]()
-
-* [Podcast: ML](https://www.top500.org): TOP500 List of the world’s fastest supercomputers
+* [Towards Data Science](https://towardsdatascience.com/): Sharing concepts, ideas, and codes
+* [Podcast: Learning Machines 101](https://www.learningmachines101.com): A Gentle Introduction to Artificial Intelligence
+* [Podcast: Datasceptic](https://dataskeptic.com): Data science, statistics, machine learning, artificial intelligence, and scientific skepticism
+* [Website: TOP500](https://www.top500.org): TOP500 List of the world’s fastest supercomputers
 Top500 computer
 
 Credits: Big thanks to all contributors to awesome lists (posted in other resources), which enabled me to find some of the courses contained in the list.
