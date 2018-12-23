@@ -327,14 +327,14 @@ China?, Paris?,
 * [Lab41](https://gab41.lab41.org/tagged/machine-learning): Lab41's blog exploring data science, machine learning, and artificial intelligence
 * [Depth First Learning](http://www.depthfirstlearning.com/)
 * [The Gradient](https://thegradient.pub/)
-* [CleverHans](http://www.cleverhans.io/)
-* [Off the Convex Path](http://www.offconvex.org/about/)
-* [Distill](https://distill.pub/)
-* [Towards Data Science](https://towardsdatascience.com/): Sharing concepts, ideas, and codes
-* [Podcast: Learning Machines 101](https://www.learningmachines101.com): A Gentle Introduction to Artificial Intelligence
-* [Podcast: Datasceptic](https://dataskeptic.com): Data science, statistics, machine learning, artificial intelligence, and scientific skepticism
+* [[Website: Off the Convex Path](http://www.offconvex.org/about/): technical blog about machine learning
+* [Website: Distill](https://distill.pub/): Latest articles about machine learning
+* [Website: Towards Data Science](https://towardsdatascience.com/): Sharing concepts, ideas, and codes
 * [Website: TOP500](https://www.top500.org): TOP500 List of the world’s fastest supercomputers
 Top500 computer
+* [Podcast: Learning Machines 101](https://www.learningmachines101.com): A Gentle Introduction to Artificial Intelligence
+* [Podcast: Datasceptic](https://dataskeptic.com): Data science, statistics, machine learning, artificial intelligence, and scientific skepticism
+
 
 Credits: Big thanks to all contributors to awesome lists (posted in other resources), which enabled me to find some of the courses contained in the list.
 
