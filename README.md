@@ -137,6 +137,9 @@ While the 3 prior ML methods are necessarily important for understanding RL, a l
 
 Pretrained Models
 
+<p align="center">
+  <img width="500" height="288" src="CNN_feature_visualisation.gif">
+</p>
 
 ## 2.1 Advanced Machine Learning: 
 
