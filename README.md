@@ -11,7 +11,7 @@ Currently under heavy reconstruction!
 * [Other Resources](#prerequisites-math)
 
 <p align="center">
-  <img width="500" height="288" src="Gradientdescent.gif">
+  <img width="700" height="300" src="./complexity_dots.gif">
 </p>
 
 ## Prerequisites Math: 
@@ -21,6 +21,10 @@ Important are Linear Algebra, Probability Theory and Statistics, Regression, Mul
 * [Course: Harvard/Edx - Intro to Statistics](https://www.edx.org/course/introduction-to-probability-0): Approx. 7 weeks to complete - Probability, Counting, and Story Proofs, Conditional Probability and Bayes' Rule, Discrete Random Variables, Continuous Random Variables, Averages, Law of Large Numbers, and Central Limit Theorem, Joint Distributions and Conditional Expectation, Markov Chains
 * [Course: Harvard - Statistics and Propability](https://projects.iq.harvard.edu/stat110/youtube): Combinatorics, basic propability, conditional probability, random variables, expected values, condtional expectation, discrete distributions, continous distributions, jointyl distributed random variables, convergence, inequality, markoc chain 
 * [Course: Coursera - Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning): Approx. 2 months to complete - Linear Algebra (Vectors, Matrices), Multivariate Calculus (Multivariate chain rules, Taylor series, linerarisation, optimisation, regression), Principal Component Analysis (Inner Product, Orthogonal Projections)
+
+<p align="center">
+  <img width="500" height="288" src="Gradientdescent.gif">
+</p>
 
 ## Prerequisites Computer Science:
 Computer Science basics: 
