@@ -312,15 +312,17 @@ Personally I would always prefer one book over 50 paper. But often you are unabl
 
 #### Universitys to follow:
 
-* [Berkeley AI Research](http://bair.berkeley.edu/blog/)
-https://ml.berkeley.edu/blog/
-MIT
-Standfort
-Cambridge
-Caltech
-Toronto
-China?, Paris?, 
 
+
+* [MIT](https://www.csail.mit.edu): MIT Computer Science & Artificial Intelligence Lab
+* [Standfort](http://ai.stanford.edu): Stanford Artificial Intelligence Laboratory
+* [Cambridge](http://mlg.eng.cam.ac.uk):Cambridge Machine Learning Group
+* [Caltech](http://www.cns.caltech.edu):Computation & Neural Systems
+Toronto
+* [Berkeley AI Research](http://bair.berkeley.edu/blog/): Berkeley Artificial Intelligence Research
+* [Berkeley ML Research](https://ml.berkeley.edu/blog/): Machine Learning at Berkeley
+China
+Paris
 
 #### Blogs etc. to follow:
 * [Website: Lab41](https://gab41.lab41.org/tagged/machine-learning): Lab41's blog exploring data science, machine learning, and artificial intelligence
