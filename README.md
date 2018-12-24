@@ -310,7 +310,7 @@ Personally I would always prefer one book over 50 paper. But often you are unabl
 * [Tencent](https://ai.tencent.com/ailab/index.html): AI lab in Shenzhen with a vision to “Make AI Everywhere"
 * [Wechat](https://ai.weixin.qq.com): Chinese multi-purpose messaging, social media and mobile payment app 
 * [QQ](https://ai.qq.com): instant messaging software service developed by the Chinese company Shenzhen Tencent
-* [Uber](https://eng.uber.com/tag/uber-ai-labs/)
+* [Uber](https://eng.uber.com/tag/uber-ai-labs/): Uber AI Labs
 * [OpenAI](https://blog.openai.com/): Company founded by Elon Musk for AI safety
 * [Amazon](https://aws.amazon.com/de/blogs/machine-learning/): Research Blog from Amazon
 * [Microsoft](https://www.microsoft.com/en-us/research/): Research department from Mircosoft
