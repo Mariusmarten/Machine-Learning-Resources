@@ -202,8 +202,8 @@ loss: crossentropy, mean square error, absolut error (mathematical idea)
 ## Deep Learning Paper
 Personally I would always prefer one book over 50 paper. But often you are unable to find a book as updated as a paper, then there is no way around. And if you know what you are looking for it’s nice.
 
-* [Arxiv](https://arxiv.org/):
-* [Arxiv Sanity](http://arxiv-sanity.com):
+* [Arxiv](https://arxiv.org/):  a repository of electronic preprints (known as e-prints)
+* [Arxiv Sanity](http://arxiv-sanity.com): Web interface for browsing, search and filtering recent arxiv submissions
 * [Paperscape](http://paperscape.org):
 * [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 * [GoogLeNet](https://arxiv.org/pdf/1409.4842v1.pdf)
