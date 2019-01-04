@@ -61,6 +61,9 @@ https://towardsdatascience.com/deep-learning-framework-power-scores-2018-23607dd
 * [Framework: Caffe](http://caffe.berkeleyvision.org/) and [Caffe2](https://caffe2.ai/) - Never played around with Caffe, but this was one of the first deep learning libraries out there. Caffe2 is notable because it's the production framework that Facebook uses to serve its models. [According to Soumith Chintala](https://www.oreilly.com/ideas/why-ai-and-machine-learning-researchers-are-beginning-to-embrace-pytorch), researchers at Facebook will try out new models and research ideas using PyTorch and will deploy using Caffe2.
 * [Framework: Microsoft (Open Source) - CNTK](https://github.com/Microsoft/CNTK): Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
 
+* [Framework: Jupyter Notebook](https://jupyter.org/):open-source web application that allows you to create and share documents that contain live code, equations and visualizations.
+(https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/)
+
 
 Automated ML Frameworks:
 
