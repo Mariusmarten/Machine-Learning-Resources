@@ -205,6 +205,8 @@ loss: crossentropy, mean square error, absolut error (mathematical idea)
 ## Deep Learning Paper
 Personally I would always prefer one book over 50 paper. But often you are unable to find a book as updated as a paper, then there is no way around. And if you know what you are looking for it’s nice.
 
+2018 analysis: http://flip.it/SNv6ek
+
 * [Arxiv](https://arxiv.org/):  a repository of electronic preprints (known as e-prints)
 * [Arxiv Sanity](http://arxiv-sanity.com): Web interface for browsing, search and filtering recent arxiv submissions
 * [Paperscape](http://paperscape.org):
