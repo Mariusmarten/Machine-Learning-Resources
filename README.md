@@ -3,6 +3,8 @@ From Basic to Advanced
 
 Currently under heavy reconstruction!
 
+- add definitions/ introduction and detailed history of ML (from book) 
+
 * [Prerequisites Math](#prerequisites-math)
 * [Prerequisites Computer Science](#prerequisites-computer-science)
 * [1. Basics Machine Learning](#3-prerequisites-programming)
