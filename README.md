@@ -211,7 +211,7 @@ Personally I would always prefer one book over 50 paper. But often you are unabl
 
 * [Arxiv](https://arxiv.org/):  a repository of electronic preprints (known as e-prints)
 * [Arxiv Sanity](http://arxiv-sanity.com): Web interface for browsing, search and filtering recent arxiv submissions
-* [Paperscape](http://paperscape.org):
+* [Paperscape](http://paperscape.org):  Paperscape is an interactive map that visualises the arXiv
 * [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 * [GoogLeNet](https://arxiv.org/pdf/1409.4842v1.pdf)
 * [VGGNet](https://arxiv.org/pdf/1409.1556v6.pdf)
@@ -330,8 +330,8 @@ Personally I would always prefer one book over 50 paper. But often you are unabl
 
 * [MIT](https://www.csail.mit.edu): MIT Computer Science & Artificial Intelligence Lab
 * [Standfort](http://ai.stanford.edu): Stanford Artificial Intelligence Laboratory
-* [Cambridge](http://mlg.eng.cam.ac.uk):Cambridge Machine Learning Group
-* [Caltech](http://www.cns.caltech.edu):Computation & Neural Systems
+* [Cambridge](http://mlg.eng.cam.ac.uk): Cambridge Machine Learning Group
+* [Caltech](http://www.cns.caltech.edu): Computation & Neural Systems
 Toronto
 * [Berkeley AI Research](http://bair.berkeley.edu/blog/): Berkeley Artificial Intelligence Research
 * [Berkeley ML Research](https://ml.berkeley.edu/blog/): Machine Learning at Berkeley
