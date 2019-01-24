@@ -271,6 +271,7 @@ top paper 2018: https://www.techleer.com/articles/517-a-list-of-top-10-deep-lear
 * [Hidden Technical Debt in ML Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
 * [MobileNets](https://arxiv.org/pdf/1704.04861.pdf)
 * [Learning from Imbalanced Data](http://www.ele.uri.edu/faculty/he/PDFfiles/ImbalancedLearning.pdf)
+* Information theory and machine learning (https://export.arxiv.org/abs/1808.07593)
 
 ## Other Resources 
 
