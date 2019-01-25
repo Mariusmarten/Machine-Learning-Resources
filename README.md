@@ -304,6 +304,7 @@ top paper 2018: https://www.techleer.com/articles/517-a-list-of-top-10-deep-lear
 * [Jeff Dean](https://ai.google/research/people/jeff): Lead of Google.ai
 * [Pete Warden](https://petewarden.com/page/2/): Lead of the TensorFlow Mobile/Embedded team
 * [Sebastian Ruder](http://ruder.io/#open): PhD Student in Natural Language Processing and Deep Learning
+* richard socher
 
 #### Companies to follow:
 * [Google Research](https://research.googleblog.com/): Research department from Google
