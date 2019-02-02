@@ -127,6 +127,7 @@ A convolutional neural network is a special type of neural network that has been
 their understanding of images
 * Visualizing what ConvNets learn Stanford - http://cs231n.github.io/understanding-cnn/
 * [Feature Visualization](https://distill.pub/2017/feature-visualization/) - Feature VisualizationHow neural networks build up 
+* Visualizing CNN filters with keras (https://jacobgil.github.io/deeplearning/filter-visualizations)
 
 Recurrent Neural Networks:
 A recurrent neural network is a special type of neural network that has been successfully used for natural language processing tasks.
