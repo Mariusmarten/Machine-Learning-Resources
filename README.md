@@ -101,6 +101,7 @@ https://hackernoon.com/my-self-created-ai-masters-degree-ddc7aae92d0e
 - https://www.deeplearningbook.org/lecture_slides.html
 
 - Kurs fast.ai
+- Machine Learning CS 229 Standford cheatsheets https://stanford.edu/~shervine/teaching/cs-229/
 
 - Tensorflow Tutorial
 
