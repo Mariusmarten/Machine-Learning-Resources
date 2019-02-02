@@ -66,6 +66,8 @@ https://towardsdatascience.com/deep-learning-framework-power-scores-2018-23607dd
 * [Framework: Jupyter Notebook](https://jupyter.org/):open-source web application that allows you to create and share documents that contain live code, equations and visualizations.
 (https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/)
 
+Wolfram, Machine learning Basic Courses - https://www.wolfram.com/wolfram-u/machine-learning-zero-to-AI-60-minutes/
+
 
 Automated ML Frameworks:
 
