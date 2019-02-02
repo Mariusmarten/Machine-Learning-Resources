@@ -124,7 +124,9 @@ A convolutional neural network is a special type of neural network that has been
 * [Brandon Rohrer YouTube Tutorial](https://www.youtube.com/watch?v=FmpDIaiMIeA): Great visuals on this tutorial video. 
 * [Andrew Ng's CNN Course](https://www.youtube.com/playlist?list=PLBAGcD3siRDjBU8sKRk0zX9pMz9qeVxud): Videos from Andrew Ng's deep learning course.
 * [Stanford CS 231N](https://www.youtube.com/watch?v=g-PvXUjD6qg&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA) - CNNs
-* [Feature Visualization](https://distill.pub/2017/feature-visualization/) - Feature VisualizationHow neural networks build up their understanding of images
+their understanding of images
+* Visualizing what ConvNets learn Stanford - http://cs231n.github.io/understanding-cnn/
+* [Feature Visualization](https://distill.pub/2017/feature-visualization/) - Feature VisualizationHow neural networks build up 
 
 Recurrent Neural Networks:
 A recurrent neural network is a special type of neural network that has been successfully used for natural language processing tasks.
