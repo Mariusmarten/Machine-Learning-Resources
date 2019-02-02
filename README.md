@@ -283,6 +283,8 @@ review pf the last 20 years: https://www.technologyreview.com/s/612768/we-analyz
 * [Learning from Imbalanced Data](http://www.ele.uri.edu/faculty/he/PDFfiles/ImbalancedLearning.pdf)
 * Information theory and machine learning (https://export.arxiv.org/abs/1808.07593)
 
+Conferneces for machine learning - http://www.guide2research.com/topconf/machine-learning
+
 ## Other Resources 
 
 * [Book: The Master Algorithm - Petro Domingos](https://www.amazon.de/Master-Algorithm-Ultimate-Learning-Machine/dp/0141979240/ref=sr_1_1?ie=UTF8&qid=1538107975&sr=8-1&keywords=master+algorithm): Symbolists (rule System, inverse deduction), Connectionsis (backpropagation, deep learnin), Bayesians (HMM, graphical model), Evolutionaries (genetic algorithms, evolutionary programming), Analogizer (kNN, SVM)
