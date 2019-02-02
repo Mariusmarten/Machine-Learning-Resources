@@ -148,6 +148,9 @@ While the 3 prior ML methods are necessarily important for understanding RL, a l
 	* [Pong From Pixels](http://karpathy.github.io/2016/05/31/rl/)
 	* [Lessons Learned Reproducing a Deep RL Paper](http://amid.fish/reproducing-deep-rl)
 
+Artificial Intelligence:
+* Artificial Intelligence Podcast - https://lexfridman.com/ai/
+
 Pretrained Models
 
 <p align="center">
