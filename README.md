@@ -149,8 +149,8 @@ While the 3 prior ML methods are necessarily important for understanding RL, a l
 	* [Deep RL Arxiv Review Paper](https://arxiv.org/pdf/1701.07274v2.pdf)
 	* [Pong From Pixels](http://karpathy.github.io/2016/05/31/rl/)
 	* [Lessons Learned Reproducing a Deep RL Paper](http://amid.fish/reproducing-deep-rl)
-Book Sutton: https://www.amazon.de/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262039249/ref=sr_1_1?ie=UTF8&qid=1549093669&sr=8-1&keywords=richard+reinforcement+learning
-	
+- Book Sutton: https://www.amazon.de/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262039249/ref=sr_1_1?ie=UTF8&qid=1549093669&sr=8-1&keywords=richard+reinforcement+learning
+-https://www.technologyreview.com/the-download/612438/an-old-fashioned-ai-has-won-a-starcraft-shootout/	
 
 Artificial Intelligence:
 * Artificial Intelligence Podcast - https://lexfridman.com/ai/
