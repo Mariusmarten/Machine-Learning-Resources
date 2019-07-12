@@ -340,6 +340,7 @@ Conferneces for machine learning - http://www.guide2research.com/topconf/machine
 * [Amazon](https://aws.amazon.com/de/blogs/machine-learning/): Research Blog from Amazon
 * [Microsoft](https://www.microsoft.com/en-us/research/): Research department from Mircosoft
 * [Bostondynamics](https://www.bostondynamics.com): American engineering and robotics design company
+* [Ogma](https://ogma.ai): Building AI using Neuroscience
 
 
 #### Universitys to follow:
